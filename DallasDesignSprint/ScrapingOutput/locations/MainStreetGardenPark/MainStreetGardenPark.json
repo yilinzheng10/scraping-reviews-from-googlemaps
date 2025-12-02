@@ -1,0 +1,71 @@
+{
+  "location": "Main Street Garden Park",
+  "scraped_at": "2025-12-01T17:02:06.106520",
+  "coordinates": {
+    "latitude": 32.7777551,
+    "longitude": -96.8100068
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "waed ayoub",
+      "comment": "Small but a lot of fun for kids! The area feels safe and the ground is soft, which is great if kids happen to fall while playing. Nice spot to relax while the kids enjoy themselves. Perfect for a quick family stop in downtown. 😊Comfort levelNeutral",
+      "rating": "5",
+      "date": "a week ago"
+    },
+    {
+      "name": "Adam Abrahamson",
+      "comment": "It's a nice open space in a sea of buildings. The open space was quite nice, and I'm glad they have it. The kids' park was also well maintained and offers a lot of climbing/obstacle course style of things to do. Very dog friendly and has cleanup and disposal options all around.",
+      "rating": "5",
+      "date": "8 months ago"
+    },
+    {
+      "name": "Fatema Tuj Johora",
+      "comment": "Night view: very good\nGood place to visit if you are new in Dallas.",
+      "rating": "4",
+      "date": "2 weeks ago"
+    },
+    {
+      "name": "R4F4",
+      "comment": "What to say about Main Street Garden Park?\n\nIt's a beautiful park in downtown Dallas.\nIt has a foosball and ping-pong table, seating area right next to a children's playground, which has structures for several age groups, there is also music playing (the little mermaid was on when we visited.)\nIt has a nice and ample grass area to play sports and shaded benches around it to sit down and relax.\n\nI highly recommend it!",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Samuel Reed",
+      "comment": "The area was bright and open, with plenty of space to walk or sit. The management clearly paid attention to keeping the surroundings tidy. It was a great spot for morning exercise.",
+      "rating": "2",
+      "date": "a month ago"
+    },
+    {
+      "name": "Frank EC",
+      "comment": "Good park for children and dogs +6",
+      "rating": "5",
+      "date": "2 months ago"
+    },
+    {
+      "name": "Mrs.Tradillion Nash",
+      "comment": "I enjoy walking around the park every morning. The grounds are clean and very pretty. A good place to relax.RestroomsNoDog-friendlinessYesPicnic areaYes",
+      "rating": "5",
+      "date": "3 weeks ago"
+    },
+    {
+      "name": "Sam Towns",
+      "comment": "The park was conveniently located to our hotel, Residence Inn, so we came a couple times while in Dallas for the weekend. Our first impression was half of it was under construction making it hard to figure out how to get in. Once we walked around to an opening, there were homeless people everywhere just laying around or sitting and staring. So that made it a bit uncomfortable. The playground was nice for our kids to enjoy while we killed time, and the tree landscaping is well done and mature. It took me awhile to figure out where the classical music was coming from and realized it was in the park.  A nice little touch. Overall I think it'd be nice to see it on a good day because we probably caught it on an off day. But I can appreciate it for what it might usually be.",
+      "rating": "4",
+      "date": "2 years ago"
+    },
+    {
+      "name": "MJ",
+      "comment": "Very fun for Holloween +7",
+      "rating": "4",
+      "date": "3 weeks ago"
+    },
+    {
+      "name": "the WO",
+      "comment": "Nice place to go with the family.When we went there was some sort of festival going on .",
+      "rating": "4",
+      "date": "4 months ago"
+    }
+  ]
+}

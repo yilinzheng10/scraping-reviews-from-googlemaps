@@ -1,23 +1,17 @@
 # Google Maps Reviews Scraper
 
-<p align="center">
-    <img src="image/banner.png" alt="Logo" width="80%">
-</p>
-
 A python script to scrape reviews from google maps.
+
 ## Requirements
-1. Python 3
-2. PIP (package manager)
-3. Chrome/Firefox driver
-4. Install requirement.txt file using PIP. 
+Install requirement.txt file using PIP. 
    
-   `pip install -r requirements.txt `
+   `python -m pip install -r requirements.txt `
 
 Question: Where to download web browser driver?
 
 Answer: Follow links in `Driver/driver_links.txt`.
 
-## How to use?
+## How to use single location scraping?
 1. Put URL of your location reviews and driver path in `env.py`
    
    Example:
@@ -34,28 +28,12 @@ Answer: Follow links in `Driver/driver_links.txt`.
    
 ## Options
 
-### Show browser during an scraping
-
-Comment the headless tag from selenuim.
-
-```
-# options.add_argument("--headless")  # show browser or not
-```
-
 ### Change output filename
 
 You can change it in `def write_to_xlsx`
 
 ```
 df.to_excel('what_you_like.xlsx')
-```
-
-### Scroll slower (problem with Google or network limits)
-
-Go to `def scrolling`, change sleeping time
-
-```
-time.sleep(your_new_time_in_seconds)
 ```
 
 ## License

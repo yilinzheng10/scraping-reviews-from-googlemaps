@@ -1,0 +1,71 @@
+{
+  "location": "Celebration of Life Park",
+  "scraped_at": "2025-12-01T17:05:18.308091",
+  "coordinates": {
+    "latitude": 32.7858069,
+    "longitude": -96.8146113
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "Jim Seifried",
+      "comment": "Great place to relax in the center of downtown just across the street from the Sheraton Hotel.  Thank you for this beautiful space. +4",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Im Anonymous",
+      "comment": "This Plaza is a personal inspiration to me because I am a cancer survivor. I can honestly say that the mindset that is mentioned in their kind words is absolutely the mindset that I had. Cancer can be beat. The mind and the spirit working together is a powerful, powerful thing. But the greatest power I have is my ability to pray to my creator. I am truly blessed.",
+      "rating": "5",
+      "date": "7 years ago"
+    },
+    {
+      "name": "Steven Danby",
+      "comment": "Simple, small well kept plaza. The sculpture there is a tribute to those who experience cancer. The fountain occasionally doesn't work. The grounds are well kept.",
+      "rating": "4",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Trevor Kelton",
+      "comment": "Nice little park but the fountain isn't running which is sad and there is not a 'No Entrance' sign at the bottom of the stairs to the skybridge so I walked up three flights of stairs to find out that I can't enter that way...",
+      "rating": "2",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Shawn Commodore",
+      "comment": "It is a small park but in a good central location of Dallas. A large part of it is under a sky bridge so it stays cool. This is a good place to take photos in the city.",
+      "rating": "5",
+      "date": "9 years ago"
+    },
+    {
+      "name": "Jerry Watkins",
+      "comment": "There are homeless living here who have harassed me and other DART passengers while waiting at the bus stop in the mornings. Also Jehovah's witnesses will usually be posted up there in the afternoons, which is also undesireable",
+      "rating": "1",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Gary Fink",
+      "comment": "Outstanding Plaza to honor cancer survivors. Amazing Sculptures, beautiful landscape, and relaxing places to sit and reflect.",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Channen Alega",
+      "comment": "this park gave me the inspiration to keep on swimming.",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Eliana Amadio",
+      "comment": "Beautiful place",
+      "rating": "5",
+      "date": "3 months ago"
+    },
+    {
+      "name": "Tanya Stone",
+      "comment": "To many homeless people to enjoy the park.",
+      "rating": "3",
+      "date": "6 years ago"
+    }
+  ]
+}

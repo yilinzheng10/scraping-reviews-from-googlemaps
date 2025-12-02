@@ -1,0 +1,531 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "CarpenterPark",
+        "summary": "Carpenter Park is a charming, well-kept community park that offers a peaceful environment for visitors. The park is great for picnics, casual strolls, and enjoying nature without leaving the city.",
+        "overall_sentiment": "neutral",
+        "positive": 31,
+        "negative": 3,
+        "neutral": 46,
+        "positive_keywords": [
+          "beautiful",
+          "beautiful downtown",
+          "beautiful park",
+          "downtowns best",
+          "enjoy dallas",
+          "enjoy park",
+          "fantastic place",
+          "felt safe",
+          "fest great",
+          "friendlinessyespicnic areayes",
+          "friendly people",
+          "great",
+          "great bark",
+          "great hidden",
+          "great spot",
+          "nice",
+          "nice beautiful",
+          "nice good",
+          "nice park",
+          "nice place",
+          "nice small",
+          "park good",
+          "park great",
+          "park lovely",
+          "really nice",
+          "skateboarding good"
+        ],
+        "negative_keywords": [
+          "cancelled",
+          "dry sad",
+          "holes",
+          "respectful place",
+          "shoes"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79498,
+          32.784538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "CelebrationofLifePark",
+        "summary": "The Plaza is a personal inspiration to me because I am a cancer survivor. The mind and the spirit working together is a powerful, powerful thing. The sculpture there is a tribute to those who experience cancer.",
+        "overall_sentiment": "positive",
+        "positive": 6,
+        "negative": 3,
+        "neutral": 1,
+        "positive_keywords": [
+          "amazing sculptures",
+          "enjoy",
+          "gave inspiration",
+          "great place",
+          "hotel thank",
+          "landscape relaxing",
+          "park good",
+          "people enjoy"
+        ],
+        "negative_keywords": [
+          "bus stop",
+          "experience cancer",
+          "homeless",
+          "living harassed"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8146113,
+          32.7858069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "CityHall",
+        "summary": "Tear down this upside down bunker and lease some office space. Maybe use the land for something cooler than basketball Great Experience There is no help no support no nothing in this city of dallas. The eviction process is nothing but a game to this city... There is.",
+        "overall_sentiment": "neutral",
+        "positive": 8,
+        "negative": 2,
+        "neutral": 10,
+        "positive_keywords": [
+          "cooler basketball",
+          "helpful"
+        ],
+        "negative_keywords": [
+          "homeless losing",
+          "people homeless",
+          "weirdest thing"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7996532,
+          32.77641129999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "CivicGarden",
+        "summary": "The Civic Center is a great place for families to relax. The maintenance staff did a great job keeping it clean and welcoming. The natural elements and the water feature are nice.",
+        "overall_sentiment": "positive",
+        "positive": 9,
+        "negative": 0,
+        "neutral": 1,
+        "positive_keywords": [
+          "beautiful spot",
+          "bigger",
+          "blessed dallas",
+          "clean welcoming",
+          "comfortable visually",
+          "enjoy water",
+          "great place",
+          "kids enjoy",
+          "love park",
+          "perfect families",
+          "playgroundit good",
+          "pleasing",
+          "small cute",
+          "super nice"
+        ],
+        "negative_keywords": [
+          "bad view",
+          "displaced individuals",
+          "unhoused people"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8236282,
+          32.7795895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "FerrisPlaza",
+        "summary": "Small park, tons of shade to protect you from the Texas heat. Nice views of the large Hyatt Hotel and the reunion tower.",
+        "overall_sentiment": "positive",
+        "positive": 9,
+        "negative": 0,
+        "neutral": 1,
+        "positive_keywords": [
+          "city beautiful",
+          "dallas great",
+          "fountain perfect",
+          "great time",
+          "heart big"
+        ],
+        "negative_keywords": [
+          "homeless"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8180674,
+          32.7764143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "HarwoodPark",
+        "summary": "Harwood Park is a big, beautiful park with a lot of stuff to do. There\u2019s plenty of space to walk, relax, and let the kids play safely. Great spot for picnics, photos, or just enjoying fresh air.",
+        "overall_sentiment": "positive",
+        "positive": 36,
+        "negative": 0,
+        "neutral": 22,
+        "positive_keywords": [
+          "area opportunity",
+          "beatuiful",
+          "complimented atmosphere",
+          "cool",
+          "cool park",
+          "cute",
+          "cute little",
+          "dallas hot",
+          "dog friendly",
+          "enjoyed lunch",
+          "fountains nice",
+          "fun place",
+          "fun time",
+          "great",
+          "great downtown",
+          "great park",
+          "great place",
+          "great spot",
+          "great time",
+          "kids enjoyed",
+          "love park",
+          "loved playground",
+          "mind beatuiful",
+          "nice",
+          "nice new",
+          "nice park",
+          "nice playground",
+          "playground super",
+          "playground wonderful",
+          "playgroundnice unique",
+          "playgroundvery unique",
+          "really nice",
+          "recreation great",
+          "relaxing",
+          "water fun",
+          "wonderful park"
+        ],
+        "negative_keywords": [
+          "daring playground",
+          "neglected weeds",
+          "peak neglected",
+          "place gross"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7933918,
+          32.779592699999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "KlydeWarrenPark",
+        "summary": "A very nice gateway park for a family with kids especially. Many activities every weekend, food trucks, live music or performances. It has a good size kids playground with water fountains.",
+        "overall_sentiment": "positive",
+        "positive": 35,
+        "negative": 2,
+        "neutral": 1,
+        "positive_keywords": [
+          "activities fantastic",
+          "ambiance fantastic",
+          "attractions great",
+          "awesome park",
+          "beautiful place",
+          "beautiful scenery",
+          "beautiful spot",
+          "board fun",
+          "cute little",
+          "daughters fun",
+          "delicious tacos",
+          "enjoy coming",
+          "enjoy view",
+          "families enjoying",
+          "fountains nice",
+          "fun activities",
+          "great dogs",
+          "great place",
+          "kids enjoy",
+          "kids fun",
+          "loved lot",
+          "loved playground",
+          "nearby enjoy",
+          "nice park",
+          "park amazing",
+          "park charming",
+          "park delivers",
+          "park good",
+          "park nice",
+          "perfect",
+          "perfect day",
+          "playgroundseems fun",
+          "playgroundyesrestroomsyesdog friendlinessyespicnic",
+          "uptown great",
+          "walk enjoy"
+        ],
+        "negative_keywords": [
+          "passing stop",
+          "presence creepy",
+          "stop"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8041933,
+          32.78936440000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "LubbenPlaza",
+        "summary": "A park with a few benches and some statues/artwork. Benches could use some new paint. oak trees throughout the park that offer shade.",
+        "overall_sentiment": "positive",
+        "positive": 7,
+        "negative": 2,
+        "neutral": 1,
+        "positive_keywords": [
+          "beautiful park",
+          "dallas good",
+          "feel safe",
+          "good picnic",
+          "love place",
+          "night super",
+          "relaxing atmosphere",
+          "welcome picnic",
+          "wonderful park"
+        ],
+        "negative_keywords": [
+          "completely dirty",
+          "dirty bunch"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8180674,
+          32.7764143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "MainStreetGardenPark",
+        "summary": "Small but a lot of fun for kids! The area feels safe and the ground is soft. Nice spot to relax while the kids enjoy themselves.",
+        "overall_sentiment": "positive",
+        "positive": 10,
+        "negative": 0,
+        "neutral": 0,
+        "positive_keywords": [
+          "beautiful park",
+          "dog friendly",
+          "enjoy walking",
+          "friendlinessyespicnic areayes",
+          "good",
+          "good park",
+          "good place",
+          "great spot",
+          "kids enjoy",
+          "lot fun",
+          "nice place"
+        ],
+        "negative_keywords": [
+          "uncomfortable playground"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8100068,
+          32.77775509999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "MartyrsPark",
+        "summary": "Largely overlooked and seldom patroned. Could use some attention the from city. PlaygroundNoneRestroomsNoneDog-friendlinessDoggos welcome :)Picnic areaNone",
+        "overall_sentiment": "neutral",
+        "positive": 2,
+        "negative": 2,
+        "neutral": 6,
+        "positive_keywords": [
+          "good",
+          "good place",
+          "great",
+          "great place",
+          "nice park"
+        ],
+        "negative_keywords": [
+          "bad",
+          "bad smell",
+          "site trash",
+          "trash",
+          "trash bad"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8180674,
+          32.7764143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "PacificPlaza",
+        "summary": "The architecture is unique and nice, but the homeless here are so hostile. The No Kings Protest was violent free and excellent as well.",
+        "overall_sentiment": "positive",
+        "positive": 19,
+        "negative": 1,
+        "neutral": 0,
+        "positive_keywords": [
+          "beautiful",
+          "beautiful building",
+          "beautiful dogs",
+          "buildings best",
+          "clean environment",
+          "dogs love",
+          "enjoying place",
+          "excellent",
+          "excellent kings",
+          "felt safe",
+          "fun",
+          "fun walking",
+          "gorgeous acre",
+          "great people",
+          "great place",
+          "great turn",
+          "great vibes",
+          "great views",
+          "great vista",
+          "nice homeless",
+          "nice look",
+          "nice park",
+          "nice place",
+          "park great",
+          "peaceful",
+          "peaceful break",
+          "peaceful place",
+          "plaza great",
+          "pretty clean",
+          "quite nice",
+          "sooo beautiful",
+          "super easy"
+        ],
+        "negative_keywords": [
+          "homeless",
+          "homeless people",
+          "pictures harasses",
+          "protest violent"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8155783,
+          32.7777132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "StoneStreetGardens",
+        "summary": "Great downtown corridor home to Campisi's, Woolworth, Starship Bagel, and the famous Dallas Eyeball sculpture. One of the most dangerous areas at night.",
+        "overall_sentiment": "neutral",
+        "positive": 3,
+        "negative": 2,
+        "neutral": 5,
+        "positive_keywords": [
+          "cool",
+          "cool area",
+          "pretty",
+          "pretty cool",
+          "welcome picnic"
+        ],
+        "negative_keywords": [
+          "bartender",
+          "bartender rude",
+          "dangerous",
+          "dangerous areas",
+          "disgusting",
+          "rude"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8155783,
+          32.7777132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "location": "WestEndSquare",
+        "summary": "Great new little park in the West End. It has swings, a fountain, walking paths and games such as Foose ball and ping-pong. The walking tracks were smooth and clean.",
+        "overall_sentiment": "positive",
+        "positive": 8,
+        "negative": 1,
+        "neutral": 1,
+        "positive_keywords": [
+          "great",
+          "great historic",
+          "great square",
+          "healthy vibe",
+          "nice clean",
+          "nice place",
+          "park welcome",
+          "perfect eating",
+          "places cool",
+          "scenery working",
+          "sit enjoy",
+          "swings wonderful"
+        ],
+        "negative_keywords": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8155783,
+          32.7777132
+        ]
+      }
+    }
+  ]
+}

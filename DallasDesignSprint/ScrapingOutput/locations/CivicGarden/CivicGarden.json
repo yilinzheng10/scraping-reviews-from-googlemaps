@@ -1,0 +1,71 @@
+{
+  "location": "Civic Garden",
+  "scraped_at": "2025-12-01T17:01:44.060267",
+  "coordinates": {
+    "latitude": 32.7795895,
+    "longitude": -96.8236282
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "Samuel Reed",
+      "comment": "The area was perfect for families. It had enough space for kids to play and adults to relax. The maintenance staff did a great job keeping it clean and welcoming.",
+      "rating": "2",
+      "date": "a month ago"
+    },
+    {
+      "name": "R4F4",
+      "comment": "What to say about the Civic Center?\n\nWhat an amazing park and leisure area that offers green grass areas to lay down and relax and many tables and chairs to take a break during work. Make sure you take the time and read what the park was built for.\n\nI highly recommend it!",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Fil Lorinc",
+      "comment": "The natural elements and the water feature are nice but the grounds are frequented by displaced individuals so this can create somewhat of a clash for folks that aren't used to it.",
+      "rating": "4",
+      "date": "a year ago"
+    },
+    {
+      "name": "TJ Smith",
+      "comment": "I thought it was going to be super nice however it is was full of unhoused people hanging out. I'm glad they have a spot to go",
+      "rating": "2",
+      "date": "2 weeks ago"
+    },
+    {
+      "name": "Kenia L",
+      "comment": "It's comfortable and visually pleasing, however, I thought it would be much bigger, but in reality it's too small, but if you just want to sit for a while, I guess you'll enjoy it.",
+      "rating": "3",
+      "date": "4 months ago"
+    },
+    {
+      "name": "Tracy Torbett",
+      "comment": "We visited 4/20/19 in the early evening.  It was a refreshing place to enjoy some greenery and watch the city of Dallas. A street performer was playing guitar nearby which added to the allure.  Within walking distance to many hotels downtown, don’t miss this beautiful spot!",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Natalie Jaroszewski",
+      "comment": "Very small, but cute. I liked it enough to take some of my civic wedding photos there. :)\nOf course it is right in the middle of major streets, so not a good pet area.\nThere a few picnic tables, and the butterfly statues are cool for kids.",
+      "rating": "3",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Abhilasha A Rathi",
+      "comment": "Such a fun place to go anytime. Kids enjoy water splash.PlaygroundIt's good space for kids to run around.RestroomsNo restroomsDog-friendlinessYesPicnic areaIt's a very comfortable place for picnic only on good weather days.",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Lawrence Mendoza",
+      "comment": "A great place to take a stroll or just sit. It is also a dog friendly park. It is overall a very good place to go to enjoy the scenery.",
+      "rating": "5",
+      "date": "9 years ago"
+    },
+    {
+      "name": "Melissa Anderson",
+      "comment": "Not a bad view  anyway you look. Love this park. Just one more reason I  am  blessed  to call Dallas home! +5",
+      "rating": "5",
+      "date": "6 years ago"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "locations": [
+    {
+      "name": "Dallas City Hall",
+      "url": "https://www.google.com/maps/place/Dallas+City+Hall/@32.7764264,-96.7983183,608m/data=!3m2!1e3!5s0x864e991c03758f79:0xac1d27b870f77243!4m15!1m8!3m7!1s0x864e991c1cd3b087:0xda73557b23b5d8c6!2sDallas+City+Hall,+1500+Marilla+St,+Dallas,+TX+75201!3b1!8m2!3d32.7764033!4d-96.7968229!16zL20vMGNxMTY5!3m5!1s0x864e991c01a6bfd1:0x37ec98d77ccc70aa!8m2!3d32.7764068!4d-96.7970783!16s%2Fg%2F1tdpmh9k?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "CityHall"
+    },
+    {
+      "name": "Civic Garden",
+      "url": "https://www.google.com/maps/place/Civic+Garden/@32.7795895,-96.8236282,4863m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e9918306f6349:0x615f7a7b2642cf5c!8m2!3d32.7795971!4d-96.8022293!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXRYMGxoZVhGQlJSQULgAQD6AQQISRBH!16s%2Fm%2F07s5vt1?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "CivicGarden"
+    },
+    {
+      "name": "Main Street Garden Park",
+      "url": "https://www.google.com/maps/place/Main+Street+Garden+Park/@32.7777551,-96.8100068,2431m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e991f9ddcfc45:0xc1fb5acf4adcc83!8m2!3d32.7811695!4d-96.7948469!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmpiRTB0TVZGQkVBReABAPoBBAgAEDI!16s%2Fm%2F064q5pn?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "MainStreetGardenPark"
+    },
+    {
+      "name": "Ferris Plaza",
+      "url": "https://www.google.com/maps/place/Ferris+Plaza/@32.7764143,-96.8180674,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e9916ceacc707:0x36e15489cbf3b34!8m2!3d32.7763325!4d-96.8066006!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjFkRTlxYVhGUlJSQULgAQD6AQQIMhAa!16s%2Fg%2F11rxghsnc?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "FerrisPlaza"
+    },
+    {
+      "name": "Harwood Park",
+      "url": "https://www.google.com/maps/place/Harwood+Park/@32.7795927,-96.7933918,198m/data=!3m1!1e3!4m6!3m5!1s0x864e997f43572b0f:0xf77a2fd7fa356146!8m2!3d32.7799323!4d-96.7922153!16s%2Fg%2F11v5c1j9pk?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "HarwoodPark"
+    },
+    {
+      "name": "Martyrs Park",
+      "url": "https://www.google.com/maps/place/Martyrs+Park/@32.7764143,-96.8180674,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e9915abeb5615:0x3738b9d46ec82ce4!8m2!3d32.7786063!4d-96.8101287!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjRlVFkzZEhOblJSQULgAQD6AQQIABAn!16s%2Fg%2F11f1245r9c?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "MartyrsPark"
+    },
+    {
+      "name": "Lubben Plaza",
+      "url": "https://www.google.com/maps/place/Lubben+Plaza/@32.7764143,-96.8180674,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e99172f93362d:0x411720185a61a1e9!8m2!3d32.7763139!4d-96.8052035!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkdPV1oxVHpOM1JSQULgAQD6AQQIABBA!16s%2Fg%2F1hf3v03wp?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "LubbenPlaza"
+    },
+    {
+      "name": "Stone Street Gardens",
+      "url": "https://www.google.com/maps/place/Stone+Street+Gardens/@32.7777132,-96.8155783,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e9918a3142eb1:0x7eea410e63de75be!8m2!3d32.7813827!4d-96.7986925!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjROUzFxYUZKM0VBReABAPoBBAgAEBI!16s%2Fg%2F11c1sjzt7q?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "StoneStreetGardens"
+    },
+    {
+      "name": "Pacific Plaza",
+      "url": "https://www.google.com/maps/place/Pacific+Plaza/@32.7777132,-96.8155783,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e990f3c6a0a89:0xb11af0d0c5062b3c!8m2!3d32.7834406!4d-96.795966!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFiMkp5UWtwUkVBReABAPoBBAhIEEU!16s%2Fm%2F07khdj4?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "PacificPlaza"
+    },
+    {
+      "name": "West End Square",
+      "url": "https://www.google.com/maps/place/West+End+Square/@32.7777132,-96.8155783,3226m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e9963ef1f20e7:0x887659330c3ecbda!8m2!3d32.782353!4d-96.807491!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnRhUmxWc1ZqVlZhM0JGWXpCd2NWUlZWVEpsU0VKMFpGaEJNRmRyUlJBQuABAPoBBAgAECk!16s%2Fg%2F11llwj275z?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "WestEndSquare"
+    },
+    {
+      "name": "Carpenter Park",
+      "url": "https://www.google.com/maps/place/Carpenter+Park/@32.784538,-96.79498,793m/data=!3m1!1e3!4m16!1m9!3m8!1s0x864e991e4e2715ab:0x2525c4cfae848816!2sCarpenter+Park!8m2!3d32.7845335!4d-96.7924051!9m1!1b1!16s%2Fg%2F11h7f_h7t_!3m5!1s0x864e991e4e2715ab:0x2525c4cfae848816!8m2!3d32.7845335!4d-96.7924051!16s%2Fg%2F11h7f_h7t_?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "CarpenterPark"
+    },
+    {
+      "name": "Celebration of Life Park",
+      "url": "https://www.google.com/maps/place/Celebration+of+Life+Park/@32.7858069,-96.8146113,3225m/data=!3m1!1e3!4m10!1m2!2m1!1sparks!3m6!1s0x864e992110da7b33:0xc1735ad94b8ead74!8m2!3d32.7858069!4d-96.7955569!15sCgVwYXJrc1oHIgVwYXJrc5IBBHBhcmuaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlNObkpoZEdWUkVBReABAPoBBAgAEDY!16s%2Fm%2F0114t84r?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "CelebrationofLifePark"
+    },
+    {
+      "name": "Klyde Warren Park",
+      "url": "https://www.google.com/maps/place/Klyde+Warren+Park/@32.7893644,-96.8041933,793m/data=!3m2!1e3!5s0x864e99244952e84d:0x9ca1806c5be54189!4m18!1m9!3m8!1s0x864e9924c29cfe65:0x504980b16ca5cf6a!2sKlyde+Warren+Park!8m2!3d32.7893644!4d-96.8016184!9m1!1b1!16s%2Fm%2F0465vhz!3m7!1s0x864e9924c29cfe65:0x504980b16ca5cf6a!8m2!3d32.7893644!4d-96.8016184!9m1!1b1!16s%2Fm%2F0465vhz?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+      "output_name": "KlydeWarrenPark"
+    }
+  ]
+}

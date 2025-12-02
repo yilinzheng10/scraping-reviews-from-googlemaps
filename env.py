@@ -1,2 +1,2 @@
-URL = "https://www.google.com/maps/place/Google+UK/@51.5332608,-0.1304879,17z/data=!4m7!3m6!1s0x48761b3c54efa6e1:0xc7053ab04745950d!8m2!3d51.5332609!4d-0.1260032!9m1!1b1"
-DriverLocation = "./Driver/chromedriver.exe"
+URL = "https://www.google.com/maps/place/Carpenter+Park/@32.784538,-96.79498,793m/data=!3m1!1e3!4m16!1m9!3m8!1s0x864e991e4e2715ab:0x2525c4cfae848816!2sCarpenter+Park!8m2!3d32.7845335!4d-96.7924051!9m1!1b1!16s%2Fg%2F11h7f_h7t_!3m5!1s0x864e991e4e2715ab:0x2525c4cfae848816!8m2!3d32.7845335!4d-96.7924051!16s%2Fg%2F11h7f_h7t_?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D"
+DriverLocation = r"C:\Users\yzheng\OneDrive - HKS Inc\Documents\GitHub\scraping-reviews-from-googlemaps\DallasDesignSprint\ScrapingOutput"

@@ -1,0 +1,71 @@
+{
+  "location": "Lubben Plaza",
+  "scraped_at": "2025-12-01T17:03:32.096167",
+  "coordinates": {
+    "latitude": 32.7764143,
+    "longitude": -96.8180674
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "Mister Jon",
+      "comment": "A park with a few benches and some statues/artwork. The park is not as well upkept as it could be. Benches could use some new paint. There are oak trees throughout the park that offer shade. +8",
+      "rating": "3",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Dena Sims",
+      "comment": "Wonderful park situated in downtown Dallas. It’s located across from the Omni Dallas Hotel. Very peaceful. I see a huge mass of iron. There are chairs for sitting and thinking as this iron mass moves around the circle. I refer to it as a sundial. However it’s far from being a sundial. It make s a complete revolution every day. As I sit there, I can hear it move, minute by minute. I generally visit three times a day to see where the sundial has moved. It’s an amazing piece of art work.",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Fil Lorinc",
+      "comment": "Nice urban park with green space, ample seating, and sculptures.PlaygroundNoneRestroomsNoneDog-friendlinessDoggos welcome :)Picnic areaNone",
+      "rating": "4",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Adrian Lopez",
+      "comment": "Not exactly sure what's going on here visually, seems i should do some research but it seems like a sun dial clock thing, not scientific  name so please don't quote me..lol...point being, it is a seemingly relaxing atmosphere here the way it has all been built, feeling secluded yet open enough to see beyond the short walls  it does give off strange and yet welcoming  vibes of another dimension. Take that as you will, i feel each person will have there very own magical experience at this spot in west downtown Dallas, Tx.\n\nHave a Beautifully, Intentional Day!",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Life Rocks",
+      "comment": "We came here as part of a virtual scavenger hunt through Puzzling Adventures, to visit and learn about the city. By the time we made it here it was dark, and homeless people were beginning to set up camp in the park for the night.  Maybe it's a nice place to visit during the day, but I definitely didn't feel safe there at night.",
+      "rating": "3",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Vincent Gaines",
+      "comment": "Beautiful park. Night view is well lot. Right next to the Omni hotel. We visited the night of the super worm moon March 21, 2019 the evening of spring equinox. I caught the moon just as it was rising over the building next door. The red horse neon lit was perfectly positioned to give perspective on the whole scene.",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Kerry Pagano",
+      "comment": "This is a wonderful addition to downtown Dallas and makes a great day date and depending on the activities a night one as well.",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Gustavo Bermudez",
+      "comment": "Love this place, but sadly it is completely dirty and bunch of people are camping there.",
+      "rating": "3",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Lauren Barnett",
+      "comment": "Nice small park in Downtown Dallas. Good for a picnic or alone time to think.",
+      "rating": "4",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Derick Snow",
+      "comment": "Street parking that's free after 6 offers access to this green space next to the hotel.",
+      "rating": "5",
+      "date": "7 years ago"
+    }
+  ]
+}

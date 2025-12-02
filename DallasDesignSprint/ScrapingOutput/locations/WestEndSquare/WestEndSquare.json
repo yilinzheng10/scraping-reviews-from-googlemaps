@@ -1,0 +1,71 @@
+{
+  "location": "West End Square",
+  "scraped_at": "2025-12-01T17:04:37.116111",
+  "coordinates": {
+    "latitude": 32.7777132,
+    "longitude": -96.8155783
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "M",
+      "comment": "Great new little park in the West End.  It has swings, a fountain, walking paths and games such as Foose ball and ping-pong.  The park has ample seating for people to take a break from their afternoon adventures.   It has charging stations for your electronics and it has overhead fans in some places so you can cool off.  It is beautifully landscaped and it has dedicated areas near the front of the park as pet relief areas. +19",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Samuel Reed",
+      "comment": "The walking tracks were smooth and clean. Many people were jogging and exercising, creating a healthy vibe.",
+      "rating": "4",
+      "date": "a month ago"
+    },
+    {
+      "name": "Fil Lorinc",
+      "comment": "Really",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Matthew Walker",
+      "comment": "This isn't so much a review as a warning so I'm giving it 5 stars due to it being a park: the charging stations do not work, be warned.",
+      "rating": "5",
+      "date": "2 weeks ago"
+    },
+    {
+      "name": "Ola Nesgovorov",
+      "comment": "Very nice and clean park with lots of places to sit and enjoy the weather",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Paula Dodd Barnes",
+      "comment": "A great square space of old days in the Dallas West End. Industry's used to thrive here. Now people are walking and living right here all around.",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Joanna Serrano",
+      "comment": "Great historic location in downtown! +5",
+      "rating": "5",
+      "date": "11 months ago"
+    },
+    {
+      "name": "Andrew Boggs",
+      "comment": "Very clean little park in the middle of everything that would be perfect for eating lunch or reading a book.",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Mindy P",
+      "comment": "Really nice place with swings, foosball, ping pong, bags, tables/chairs, grassy area.",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Codie Angle",
+      "comment": "This park is a welcome addition to the neighborhood! The unique water feature and the relaxing swings are wonderful. I look forward to spending lots of time here. The electricity outlets will be helpful if you are looking for a change of scenery while working from home!",
+      "rating": "5",
+      "date": "4 years ago"
+    }
+  ]
+}

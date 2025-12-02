@@ -1,0 +1,71 @@
+{
+  "location": "Ferris Plaza",
+  "scraped_at": "2025-12-01T17:02:27.465968",
+  "coordinates": {
+    "latitude": 32.7764143,
+    "longitude": -96.8180674
+  },
+  "total_reviews": 10,
+  "reviews": [
+    {
+      "name": "Gera Encinas Bloch",
+      "comment": "Being one of the oldest plazas of Dallas, it’s elegant and full of history.Picnic areaThere are green areas where on could sit down.",
+      "rating": "5",
+      "date": "2 months ago"
+    },
+    {
+      "name": "Cee Dupree",
+      "comment": "Small park, tons of shade to protect you from the Texas heat. Nice views of the large Hyatt Hotel and the reunion tower. No big open grass areas. Pet friendly and clean. +2",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Mister Jon",
+      "comment": "A nice small park on the edge or downtown. There is a fountain and some benches. Note: there really is not any flat area for ball games. This is more of a park that just has some green area in the middle of an urban setting. +2",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Teresa G Leon",
+      "comment": "Ferris Plaza is a small but peaceful green space in downtown Dallas, great for a quick break or enjoying the city views near Union Station.",
+      "rating": "5",
+      "date": "2 months ago"
+    },
+    {
+      "name": "Chelsea Turnbull",
+      "comment": "We had a great time visiting Dallas. The city is beautiful and so rich with history! Every turn was unique and interesting. I can't wait to visit again!",
+      "rating": "4",
+      "date": "a year ago"
+    },
+    {
+      "name": "Marvel Marvin",
+      "comment": "Tourists come here thinkin’ they’ll see a few buildings and leave. But what they get is a whole feelin’. That’s Dallas for ya—big heart, big sky, big welcome.",
+      "rating": "4",
+      "date": "5 months ago"
+    },
+    {
+      "name": "EL TRAZSCO MICHOACÁNO",
+      "comment": "I",
+      "rating": "5",
+      "date": "2 weeks ago"
+    },
+    {
+      "name": "Osvaldo Castillo",
+      "comment": "If you are visiting Dallas, Reunion Tower is a good place to take a pictures from the city. +9",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Samuel Reed",
+      "comment": "Families often visit here to relax and spend quality time together.",
+      "rating": "3",
+      "date": "a month ago"
+    },
+    {
+      "name": "Andrew Boggs",
+      "comment": "Nice little park with a cool fountain that would be perfect for eating lunch or reading a book however during the day it seems to be more of a hangout for the homeless.",
+      "rating": "4",
+      "date": "3 years ago"
+    }
+  ]
+}

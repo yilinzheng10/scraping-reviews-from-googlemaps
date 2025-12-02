@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Dallas Public Space Sentiment</title>
+
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
+
+<style>
+    body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    #map { width: 100vw; height: 100vh; }
+
+    /* Right Sidebar */
+    #keyword-panel {
+        position: absolute;
+        top: 0;
+        right: -380px; /* Hidden by default */
+        width: 360px;
+        height: 100%;
+        background: #ffffff;
+        box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+        transition: right 0.35s ease;
+        z-index: 10;
+        padding: 20px;
+        overflow-y: auto;
+    }
+
+    #keyword-panel.open {
+        right: 0;
+    }
+
+    #keyword-title {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .keyword-section-title {
+        font-size: 15px;
+        font-weight: 600;
+        margin-top: 18px;
+        margin-bottom: 6px;
+        color: #444;
+    }
+
+    .keyword-chip {
+        display: inline-block;
+        padding: 5px 9px;
+        border-radius: 6px;
+        margin: 4px;
+        font-size: 12px;
+        border: 1px solid #ddd;
+        background: #f7f7f7;
+    }
+    .keyword-chip.pos { border-color: #2ecc71; color: #2ecc71; }
+    .keyword-chip.neg { border-color: #e74c3c; color: #e74c3c; }
+
+    #close-panel {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        cursor: pointer;
+        font-size: 18px;
+        color: #666;
+        font-weight: bold;
+    }
+
+    /* Legend */
+    .legend {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        background: rgba(255, 255, 255, 0.94);
+        padding: 14px 18px;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        font-size: 14px;
+        z-index: 5;
+    }
+    .legend-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 6px;
+    }
+    .legend-color {
+        width: 14px;
+        height: 14px;
+        border-radius: 50%;
+        margin-right: 8px;
+        border: 2px solid #fff;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    /* Popup minimal */
+    .mapboxgl-popup-content {
+        padding: 20px;
+        max-width: 260px;
+    }
+    .popup-title { font-size: 18px; font-weight: 600; margin: 0 0 10px; }
+    .sentiment-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 40px;
+        font-size: 12px;
+        font-weight: 600;
+        margin-bottom: 12px;
+        color: #fff;
+    }
+    .sentiment-positive { background: #2ecc71; }
+    .sentiment-negative { background: #e74c3c; }
+    .sentiment-neutral { background: #f1c40f; color: #000; }
+
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+
+<!-- RIGHT KEYWORD PANEL -->
+<div id="keyword-panel">
+    <div id="close-panel">×</div>
+    <div id="keyword-title">Location Name</div>
+
+    <div class="keyword-section-title">Positive Keywords</div>
+    <div id="keyword-positive"></div>
+
+    <div class="keyword-section-title">Negative Keywords</div>
+    <div id="keyword-negative"></div>
+</div>
+
+<!-- Legend -->
+<div class="legend">
+    <div class="legend-item">
+        <span class="legend-color" style="background:#2ecc71"></span> Positive
+    </div>
+    <div class="legend-item">
+        <span class="legend-color" style="background:#e74c3c"></span> Negative
+    </div>
+    <div class="legend-item">
+        <span class="legend-color" style="background:#f1c40f"></span> Neutral
+    </div>
+</div>
+
+<script>
+mapboxgl.accessToken = "pk.eyJ1IjoicXVpeWlsIiwiYSI6ImNtaW54eG84bjJpcXYzZnB4NzU3dXRvb3QifQ.w8s1zXPc4YabVz9d6tjtgg";
+
+function prettifyName(raw) {
+    return raw.replace(/([A-Z])/g, " $1").trim();
+}
+
+const map = new mapboxgl.Map({
+    container: "map",
+    style: "mapbox://styles/mapbox/light-v11",
+    center: [-96.798, 32.78],
+    zoom: 13
+});
+
+map.on("load", () => {
+
+    // Clean basemap (muted greens + roads)
+    const parkLayers = ["landuse", "landcover", "park"];
+    parkLayers.forEach(id => {
+        if (map.getLayer(id)) {
+            map.setPaintProperty(id, "fill-color", "#dfeee0");
+            map.setPaintProperty(id, "fill-opacity", 0.45);
+        }
+    });
+
+    if (map.getLayer("water")) {
+        map.setPaintProperty("water", "fill-color", "#dbe7ef");
+    }
+
+    ["hillshade","hillshade-shadow","contour-line","contour-label"]
+        .forEach(id => {
+            if (map.getLayer(id)) map.setLayoutProperty(id, "visibility", "none");
+        });
+
+    fetch("dallas_reviews.geojson")
+        .then(res => res.json())
+        .then(data => {
+
+            data.features = data.features.map(f => {
+                f.properties.location = prettifyName(f.properties.location);
+                return f;
+            });
+
+            map.addSource("reviews", { type: "geojson", data });
+
+            // Pins
+            map.addLayer({
+                id: "review_points",
+                type: "circle",
+                source: "reviews",
+                paint: {
+                    "circle-radius": 12,
+                    "circle-color": [
+                        "match", ["get", "overall_sentiment"],
+                        "positive", "#2ecc71",
+                        "negative", "#e74c3c",
+                        "neutral", "#f1c40f",
+                        "#999"
+                    ],
+                    "circle-stroke-width": 3,
+                    "circle-stroke-color": "#fff"
+                }
+            });
+
+            // Labels below pins
+            map.addLayer({
+                id: "review_labels",
+                type: "symbol",
+                source: "reviews",
+                layout: {
+                    "text-field": ["get", "location"],
+                    "text-size": 11,
+                    "text-offset": [0, 1.4],
+                    "text-anchor": "top"
+                },
+                paint: {
+                    "text-color": "#444",
+                    "text-halo-color": "white",
+                    "text-halo-width": 1.2
+                }
+            });
+
+            //
+            // POPUP + KEYWORD SIDE PANEL
+            //
+            map.on("click", "review_points", (e) => {
+                const p = e.features[0].properties;
+
+                // Sidebar elements
+                const panel = document.getElementById("keyword-panel");
+                const posDiv = document.getElementById("keyword-positive");
+                const negDiv = document.getElementById("keyword-negative");
+                const titleDiv = document.getElementById("keyword-title");
+
+                const posKeywords = JSON.parse(p.positive_keywords || "[]");
+                const negKeywords = JSON.parse(p.negative_keywords || "[]");
+
+                // Set title
+                titleDiv.textContent = p.location;
+
+                // Fill positive keyword chips
+                posDiv.innerHTML = posKeywords
+                    .map(k => `<span class="keyword-chip pos">${k}</span>`)
+                    .join("");
+
+                // Fill negative keyword chips
+                negDiv.innerHTML = negKeywords
+                    .map(k => `<span class="keyword-chip neg">${k}</span>`)
+                    .join("");
+
+                // Open side panel
+                panel.classList.add("open");
+
+                // Minimal popup
+                const sentimentClass =
+                    p.overall_sentiment === "positive" ? "sentiment-positive" :
+                    p.overall_sentiment === "negative" ? "sentiment-negative" :
+                    "sentiment-neutral";
+
+                new mapboxgl.Popup()
+                    .setLngLat(e.features[0].geometry.coordinates)
+                    .setHTML(`
+                        <div class="popup-title">${p.location}</div>
+                        <div class="sentiment-badge ${sentimentClass}">
+                            ${p.overall_sentiment.toUpperCase()}
+                        </div>
+                        <div><b>Pos:</b> ${p.positive} &nbsp;
+                             <b>Neu:</b> ${p.neutral} &nbsp;
+                             <b>Neg:</b> ${p.negative}</div>
+                        <div style="margin-top:10px;font-size:14px;color:#333;">
+                            ${p.summary}
+                        </div>
+                    `)
+                    .addTo(map);
+            });
+
+            // Close button
+            document.getElementById("close-panel").onclick = () =>
+                document.getElementById("keyword-panel").classList.remove("open");
+        });
+});
+</script>
+</body>
+</html>
