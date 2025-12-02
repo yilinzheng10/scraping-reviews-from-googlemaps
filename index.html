@@ -176,7 +176,7 @@ map.on("load", () => {
             if (map.getLayer(id)) map.setLayoutProperty(id, "visibility", "none");
         });
 
-    fetch("dallas_reviews.geojson")
+    fetch("MappingSentiments/dallas_reviews.geojson")
         .then(res => res.json())
         .then(data => {
 
