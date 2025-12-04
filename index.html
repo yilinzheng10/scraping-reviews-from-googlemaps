@@ -1,3 +1,7 @@
+<!--
+    hugging face model reference: https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -153,7 +157,9 @@ const map = new mapboxgl.Map({
     container: "map",
     style: "mapbox://styles/mapbox/light-v11",
     center: [-96.798, 32.78],
-    zoom: 13
+    pitch: 45, // in degrees
+    bearing: -45,
+    zoom: 14
 });
 
 map.on("load", () => {
@@ -175,7 +181,56 @@ map.on("load", () => {
         .forEach(id => {
             if (map.getLayer(id)) map.setLayoutProperty(id, "visibility", "none");
         });
+    // End Clean basemap
 
+    // 3d buildings
+    const layers = map.getStyle().layers;
+    const labelLayerId = layers.find(
+        (layer) => layer.type === 'symbol' && layer.layout['text-field']
+    ).id;
+
+    // The 'building' layer in the Mapbox Streets
+    // vector tileset contains building height data
+    // from OpenStreetMap.
+    map.addLayer(
+        {
+            'id': 'add-3d-buildings',
+            'source': 'composite',
+            'source-layer': 'building',
+            'filter': ['==', 'extrude', 'true'],
+            'type': 'fill-extrusion',
+            'minzoom': 15,
+            'paint': {
+                'fill-extrusion-color': '#aaa',
+
+                // Use an 'interpolate' expression to
+                // add a smooth transition effect to
+                // the buildings as the user zooms in.
+                'fill-extrusion-height': [
+                    'interpolate',
+                    ['linear'],
+                    ['zoom'],
+                    10,
+                    0,
+                    10.05,
+                    ['get', 'height']
+                ],
+                'fill-extrusion-base': [
+                    'interpolate',
+                    ['linear'],
+                    ['zoom'],
+                    10,
+                    0,
+                    10.05,
+                    ['get', 'min_height']
+                ],
+                'fill-extrusion-opacity': 0.6
+            }
+        },
+        labelLayerId
+    );
+
+    // Load GeoJSON data (Sentiment analyzed reviews)
     fetch("MappingSentiments/dallas_reviews.geojson")
         .then(res => res.json())
         .then(data => {

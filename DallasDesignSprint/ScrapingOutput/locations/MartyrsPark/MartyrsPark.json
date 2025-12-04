@@ -1,11 +1,11 @@
 {
   "location": "Martyrs Park",
-  "scraped_at": "2025-12-01T17:03:10.204995",
+  "scraped_at": "2025-12-03T16:00:41.027269",
   "coordinates": {
-    "latitude": 32.7764143,
-    "longitude": -96.8180674
+    "latitude": 32.7786063,
+    "longitude": -96.8101287
   },
-  "total_reviews": 10,
+  "total_reviews": 12,
   "reviews": [
     {
       "name": "Fil Lorinc",
@@ -47,7 +47,7 @@
       "name": "Young BGL",
       "comment": "",
       "rating": "5",
-      "date": "3 days ago"
+      "date": "5 days ago"
     },
     {
       "name": "prudhvi raj",
@@ -66,6 +66,18 @@
       "comment": "",
       "rating": "5",
       "date": "2 years ago"
+    },
+    {
+      "name": "R",
+      "comment": "",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "The Cheese burglar",
+      "comment": "",
+      "rating": "2",
+      "date": "7 years ago"
     }
   ]
 }

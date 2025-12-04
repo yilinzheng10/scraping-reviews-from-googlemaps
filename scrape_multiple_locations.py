@@ -19,10 +19,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from env import DriverLocation
 
-# Import scraping functions from app.py
-# (In a real setup, these would be in a shared module)
-
-
 def create_driver():
     """Create and return a Chrome WebDriver instance."""
     options = webdriver.ChromeOptions()
@@ -208,25 +204,43 @@ def scrape_location(location_config):
             except Exception:
                 continue
         
-        # Extract coordinates
+        # Extract coordinates using the !3d and !4d markers for the Place of Interest
         current_url = driver.current_url
         lat = None
         lon = None
+        
         try:
-            m = re.search(r"@(-?\d+\.\d+),(-?\d+\.\d+)", current_url)
+            # New regex pattern to match coordinates associated with the Place of Interest (!3d<lat>!4d<lon>)
+            # This is much more reliable than the map view coordinates (@<lat>,<lon>)
+            m = re.search(r"!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)", current_url)
+            
             if m:
+                # Group 1 is Latitude, Group 2 is Longitude
                 lat = float(m.group(1))
                 lon = float(m.group(2))
-        except:
+                print(f'  Coordinates found via PoI URL markers: {lat}, {lon}')
+            else:
+                # Fallback to map view coordinates (less accurate)
+                m_fallback = re.search(r"@(-?\d+\.\d+),(-?\d+\.\d+)", current_url)
+                if m_fallback:
+                    lat = float(m_fallback.group(1))
+                    lon = float(m_fallback.group(2))
+                    print(f'  Warning: Coordinates found via map view fallback: {lat}, {lon}')
+                else:
+                    print('  Coordinates could not be reliably extracted from URL.')
+            
+        except Exception as e:
+            print(f'  Coordinate extraction error: {e}')
             pass
         
         print(f'✓ Extracted {len(reviews_data)} unique reviews for {location_name}')
         return location_name, reviews_data, {'latitude': lat, 'longitude': lon}, output_name
     
+    #raise exceptions to be caught in main flow
     except Exception as e:
         print(f'✗ Error scraping {location_name}: {e}')
         return location_name, [], {}, output_name
-    
+    # ensure driver is closed
     finally:
         if driver:
             try:
@@ -234,7 +248,7 @@ def scrape_location(location_config):
             except:
                 pass
 
-
+# Save individual location output
 def save_location_output(location_name, reviews, coordinates, output_name):
     """Save reviews to Excel and JSON files organized by location."""
     

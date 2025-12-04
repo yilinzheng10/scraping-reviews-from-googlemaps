@@ -209,14 +209,16 @@ python -m py_compile scrape_multiple_locations.py
    - Open `ScrapingOutput/locations/...`
    - View individual location folders
 
-3. **Add more locations** (if you didn't get 50 reviews):
+3. **Add more locations**
    - Edit `locations.json`
    - Add more Google Maps URLs
    - Re-run the script
 
-4. **Merge data** (optional):
+4. **Merge data**
    - Combine data from multiple runs
    - Create master dataset
+
+5. **Run Sentiment Analysis**
 
 
 Good luck scraping! 

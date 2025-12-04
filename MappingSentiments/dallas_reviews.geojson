@@ -5,11 +5,11 @@
       "type": "Feature",
       "properties": {
         "location": "CarpenterPark",
-        "summary": "Carpenter Park is a charming, well-kept community park that offers a peaceful environment for visitors. The park is great for picnics, casual strolls, and enjoying nature without leaving the city.",
+        "summary": "Carpenter Park is a spacious and modern urban park. It features wide open lawns, public art installations, walking paths, and areas for skateboarding and biking. The park is dog friendly.",
         "overall_sentiment": "neutral",
         "positive": 31,
         "negative": 3,
-        "neutral": 46,
+        "neutral": 36,
         "positive_keywords": [
           "beautiful",
           "beautiful downtown",
@@ -39,18 +39,18 @@
           "skateboarding good"
         ],
         "negative_keywords": [
-          "cancelled",
-          "dry sad",
+          "cancelled entire",
           "holes",
           "respectful place",
+          "sad",
           "shoes"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.79498,
-          32.784538
+          -96.7924051,
+          32.784533500000016
         ]
       }
     },
@@ -58,18 +58,22 @@
       "type": "Feature",
       "properties": {
         "location": "CelebrationofLifePark",
-        "summary": "The Plaza is a personal inspiration to me because I am a cancer survivor. The mind and the spirit working together is a powerful, powerful thing. The sculpture there is a tribute to those who experience cancer.",
-        "overall_sentiment": "positive",
-        "positive": 6,
-        "negative": 3,
-        "neutral": 1,
+        "summary": "A small park but in a good central location of Dallas. Great place to relax in the center of downtown just across the street from the Sheraton Hotel. Outstanding Plaza to honor cancer survivors.",
+        "overall_sentiment": "neutral",
+        "positive": 14,
+        "negative": 4,
+        "neutral": 29,
         "positive_keywords": [
           "amazing sculptures",
+          "beautiful",
+          "education beautiful",
           "enjoy",
           "gave inspiration",
           "great place",
           "hotel thank",
           "landscape relaxing",
+          "nice",
+          "nice place",
           "park good",
           "people enjoy"
         ],
@@ -77,14 +81,15 @@
           "bus stop",
           "experience cancer",
           "homeless",
+          "homeless people",
           "living harassed"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8146113,
-          32.7858069
+          -96.79555689999997,
+          32.78580689999998
         ]
       }
     },
@@ -92,26 +97,73 @@
       "type": "Feature",
       "properties": {
         "location": "CityHall",
-        "summary": "Tear down this upside down bunker and lease some office space. Maybe use the land for something cooler than basketball Great Experience There is no help no support no nothing in this city of dallas. The eviction process is nothing but a game to this city... There is.",
-        "overall_sentiment": "neutral",
-        "positive": 8,
-        "negative": 2,
-        "neutral": 10,
+        "summary": "Dallas City Hall is a stunning I.M. Pei architectural masterpiece. Best part about the building was it\u2019s use as the Omni Consumer Products (OCP) Headquarters in Robocop. The city is riddled with blight, Homeless violence ghettos.",
+        "overall_sentiment": "positive",
+        "positive": 24,
+        "negative": 19,
+        "neutral": 7,
         "positive_keywords": [
+          "2020 celebration",
+          "architectural masterpiece",
+          "architecture awesome",
+          "awesome",
+          "beautiful building",
+          "beautiful people",
+          "beauty felt",
+          "best experience",
+          "building great",
+          "cool architecture",
+          "cool cruising",
           "cooler basketball",
-          "helpful"
+          "field great",
+          "good",
+          "great",
+          "great downtown",
+          "great kids",
+          "hall favorite",
+          "hall good",
+          "helpful",
+          "kind smile",
+          "marathon great",
+          "nice",
+          "nice looking",
+          "nice tour",
+          "officers helpful",
+          "parade amazing",
+          "soooo beautiful",
+          "town greatest"
         ],
         "negative_keywords": [
+          "administration trash",
+          "city sucks",
+          "hates job",
+          "homeless",
+          "homeless live",
           "homeless losing",
+          "homeless scum",
+          "illegally park",
+          "incorrect meeting",
+          "nonsense rudeness",
+          "obnoxious noise",
+          "people drugs",
           "people homeless",
+          "people potholes",
+          "permit",
+          "picture homeless",
+          "remarkable brutalist",
+          "repeated complaints",
+          "sad administration",
+          "shame parked",
+          "sucks i30",
+          "violating laws",
           "weirdest thing"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.7996532,
-          32.77641129999999
+          -96.7968229,
+          32.7764033
         ]
       }
     },
@@ -119,38 +171,58 @@
       "type": "Feature",
       "properties": {
         "location": "CivicGarden",
-        "summary": "The Civic Center is a great place for families to relax. The maintenance staff did a great job keeping it clean and welcoming. The natural elements and the water feature are nice.",
+        "summary": "Civic Garden is a beautiful and serene park with well-maintained gardens and a peaceful atmosphere. The interactive fountain is a highlight, and the park's layout is perfect for a relaxing stroll.",
         "overall_sentiment": "positive",
-        "positive": 9,
-        "negative": 0,
-        "neutral": 1,
+        "positive": 26,
+        "negative": 1,
+        "neutral": 3,
         "positive_keywords": [
+          "beautiful night",
           "beautiful spot",
           "bigger",
           "blessed dallas",
           "clean welcoming",
           "comfortable visually",
+          "cool",
+          "dallas perfect",
+          "enjoy",
+          "enjoy lunch",
           "enjoy water",
+          "garden beautiful",
+          "great",
           "great place",
           "kids enjoy",
+          "kids hot",
           "love park",
+          "loved definitely",
+          "nice",
+          "nice park",
+          "nice place",
+          "nice walk",
+          "peaceful",
           "perfect families",
           "playgroundit good",
           "pleasing",
           "small cute",
-          "super nice"
+          "super friendly",
+          "super nice",
+          "went enjoyed"
         ],
         "negative_keywords": [
           "bad view",
           "displaced individuals",
+          "homeless",
+          "homeless people",
+          "population",
+          "trash",
           "unhoused people"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8236282,
-          32.7795895
+          -96.80222929999996,
+          32.77959710000001
         ]
       }
     },
@@ -158,27 +230,49 @@
       "type": "Feature",
       "properties": {
         "location": "FerrisPlaza",
-        "summary": "Small park, tons of shade to protect you from the Texas heat. Nice views of the large Hyatt Hotel and the reunion tower.",
+        "summary": "Ferris Plaza is a small but peaceful green space in downtown Dallas. The spurting fountain has approximately 6 threads appearing to shoot from underneath the ground. This park and part of White Rock was given to my great great grand father. The fountain is gorgeous. You can deed the pigeons as there are plenty of them. It\u2019s just across the union train station. Great park with tons of open space for tossing a ball or playing chase.",
         "overall_sentiment": "positive",
-        "positive": 9,
+        "positive": 38,
         "negative": 0,
-        "neutral": 1,
+        "neutral": 2,
         "positive_keywords": [
+          "beautiful",
+          "beautiful park",
+          "beautiful place",
+          "beautiful plaza",
+          "beautiful spot",
+          "beautiful water",
           "city beautiful",
           "dallas great",
           "fountain perfect",
+          "god beautiful",
+          "gorgeous definitely",
+          "great location",
+          "great park",
           "great time",
-          "heart big"
+          "great view",
+          "heart big",
+          "lovely kept",
+          "nice",
+          "nice park",
+          "nice peaceful",
+          "nice place",
+          "park beautiful",
+          "really lovely",
+          "trip nice",
+          "visit great"
         ],
         "negative_keywords": [
+          "aloooot homeless",
+          "disappointed",
           "homeless"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8180674,
-          32.7764143
+          -96.8066006,
+          32.7763325
         ]
       }
     },
@@ -186,7 +280,7 @@
       "type": "Feature",
       "properties": {
         "location": "HarwoodPark",
-        "summary": "Harwood Park is a big, beautiful park with a lot of stuff to do. There\u2019s plenty of space to walk, relax, and let the kids play safely. Great spot for picnics, photos, or just enjoying fresh air.",
+        "summary": "Harwood Park is a newer addition to the city\u2019s green spaces, offering modern landscaping, open lawns, shaded paths, and community-friendly features. The open space gave a sense of freedom. Great addition to the downtown parks initiative. Clean public bathrooms, everything is well lit after sunset, and security patrols. Mammoth playground. Nice green space. Stage for events. Big open grass area.",
         "overall_sentiment": "positive",
         "positive": 36,
         "negative": 0,
@@ -200,6 +294,7 @@
           "cute",
           "cute little",
           "dallas hot",
+          "dog friendlinesssuper",
           "dog friendly",
           "enjoyed lunch",
           "fountains nice",
@@ -239,8 +334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.7933918,
-          32.779592699999995
+          -96.79221529999998,
+          32.77993229999999
         ]
       }
     },
@@ -248,47 +343,96 @@
       "type": "Feature",
       "properties": {
         "location": "KlydeWarrenPark",
-        "summary": "A very nice gateway park for a family with kids especially. Many activities every weekend, food trucks, live music or performances. It has a good size kids playground with water fountains.",
+        "summary": "Klyde Warren Park is a 5-acre urban green space right in downtown Dallas, built over the Woodall Rodgers Freeway. The park has a small children\u2019s play area with limited equipment, a food-truck zone, and good security surveillance.",
         "overall_sentiment": "positive",
-        "positive": 35,
+        "positive": 95,
         "negative": 2,
         "neutral": 1,
         "positive_keywords": [
           "activities fantastic",
+          "amazing date",
+          "amazing playgroundlots",
+          "amazing visit",
           "ambiance fantastic",
+          "area nice",
+          "atmosphere perfect",
           "attractions great",
           "awesome park",
+          "awesome surprise",
+          "beautiful",
+          "beautiful park",
           "beautiful place",
-          "beautiful scenery",
           "beautiful spot",
           "board fun",
+          "bring adorable",
+          "charming cozy",
           "cute little",
           "daughters fun",
           "delicious tacos",
+          "dog friendly",
+          "downtown beautiful",
           "enjoy coming",
           "enjoy view",
+          "enjoyed",
+          "enjoyed fountain",
+          "enjoyed playing",
+          "enjoying life",
           "families enjoying",
+          "family friendly",
+          "family fun",
+          "fantastic spot",
           "fountains nice",
+          "friendly area",
+          "fun",
           "fun activities",
+          "fun parking",
+          "good food",
+          "good time",
+          "good weather",
           "great dogs",
+          "great park",
           "great place",
+          "great playground",
           "kids enjoy",
           "kids fun",
+          "liked water",
+          "love playground",
+          "loved",
+          "loved afternoon",
           "loved lot",
           "loved playground",
+          "loved water",
+          "lovely place",
+          "lovely surprise",
           "nearby enjoy",
           "nice park",
-          "park amazing",
-          "park charming",
+          "nice place",
+          "park awesome",
           "park delivers",
+          "park fantastic",
           "park good",
+          "park great",
+          "park magical",
           "park nice",
+          "peaceful park",
           "perfect",
           "perfect day",
+          "perfect spot",
+          "place fantastic",
+          "place peaceful",
+          "playgroundgood kidsrestroomsclean",
           "playgroundseems fun",
           "playgroundyesrestroomsyesdog friendlinessyespicnic",
+          "really enjoyed",
+          "relaxing open",
+          "safe fun",
+          "super cool",
+          "sweet people",
           "uptown great",
-          "walk enjoy"
+          "visit love",
+          "visited absolutely",
+          "walk enjoy",
+          "wonderful place"
         ],
         "negative_keywords": [
           "passing stop",
@@ -299,7 +443,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8041933,
+          -96.80161840000002,
           32.78936440000001
         ]
       }
@@ -308,32 +452,46 @@
       "type": "Feature",
       "properties": {
         "location": "LubbenPlaza",
-        "summary": "A park with a few benches and some statues/artwork. Benches could use some new paint. oak trees throughout the park that offer shade.",
-        "overall_sentiment": "positive",
-        "positive": 7,
-        "negative": 2,
-        "neutral": 1,
+        "summary": "Harrow, 1992 by Texas artist Linnea Glatt. Nice urban park with green space, ample seating, and sculptures. Street parking that's free after 6 offers access to this green space next to the hotel.",
+        "overall_sentiment": "neutral",
+        "positive": 21,
+        "negative": 3,
+        "neutral": 26,
         "positive_keywords": [
+          "beautiful",
+          "beautiful art",
           "beautiful park",
           "dallas good",
           "feel safe",
+          "good",
           "good picnic",
+          "great translated",
+          "look good",
+          "love",
+          "love atleast",
           "love place",
+          "nice",
+          "nice place",
+          "nice warm",
           "night super",
+          "relaxed",
           "relaxing atmosphere",
           "welcome picnic",
           "wonderful park"
         ],
         "negative_keywords": [
           "completely dirty",
-          "dirty bunch"
+          "dirty bunch",
+          "homeless",
+          "shady",
+          "utilized"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8180674,
-          32.7764143
+          -96.8052035,
+          32.7763139
         ]
       }
     },
@@ -341,33 +499,81 @@
       "type": "Feature",
       "properties": {
         "location": "MainStreetGardenPark",
-        "summary": "Small but a lot of fun for kids! The area feels safe and the ground is soft. Nice spot to relax while the kids enjoy themselves.",
+        "summary": "Main Street Garden Park has a foosball and ping-pong table, seating area right next to a children's playground. Great place for a walk on a sunny day. One of the best parks downtown for kids.",
         "overall_sentiment": "positive",
-        "positive": 10,
-        "negative": 0,
-        "neutral": 0,
+        "positive": 46,
+        "negative": 2,
+        "neutral": 2,
         "positive_keywords": [
+          "area gorgeous",
+          "atmosphere good",
+          "beautiful angelic",
           "beautiful park",
+          "beautiful views",
+          "best parks",
+          "concert lucked",
+          "dallas great",
           "dog friendly",
+          "enjoy city",
           "enjoy walking",
+          "fresh air",
           "friendlinessyespicnic areayes",
+          "friendly people",
+          "fun places",
           "good",
           "good park",
           "good place",
+          "great",
+          "great dallas",
+          "great place",
+          "great restraunts",
           "great spot",
+          "great views",
+          "incredible place",
+          "journey cool",
           "kids enjoy",
+          "kids loved",
           "lot fun",
-          "nice place"
+          "lots fun",
+          "love fountain",
+          "love grandbabies",
+          "love kid",
+          "love park",
+          "love place",
+          "nice area",
+          "nice park",
+          "nice place",
+          "nicest places",
+          "park great",
+          "park nice",
+          "peaceful",
+          "playground great",
+          "playgroundgreat place",
+          "pleasant experience",
+          "quiet love",
+          "really cool",
+          "restroomssurprisingly clean",
+          "seen beauty",
+          "sunny",
+          "weather great"
         ],
         "negative_keywords": [
+          "corn hole",
+          "gross dog",
+          "homeless",
+          "homeless people",
+          "park lacks",
+          "people smell",
+          "skyscrapers boring",
+          "time homeless",
           "uncomfortable playground"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8100068,
-          32.77775509999999
+          -96.79484690000001,
+          32.781169500000004
         ]
       }
     },
@@ -379,7 +585,7 @@
         "overall_sentiment": "neutral",
         "positive": 2,
         "negative": 2,
-        "neutral": 6,
+        "neutral": 8,
         "positive_keywords": [
           "good",
           "good place",
@@ -398,8 +604,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8180674,
-          32.7764143
+          -96.81012869999999,
+          32.77860629999999
         ]
       }
     },
@@ -407,35 +613,48 @@
       "type": "Feature",
       "properties": {
         "location": "PacificPlaza",
-        "summary": "The architecture is unique and nice, but the homeless here are so hostile. The No Kings Protest was violent free and excellent as well.",
+        "summary": "This lovely open and green space is airy and fresh and while there isn't a buffer for noise, it was still calmer and more peaceful than most. The only thing was there was a large group of homeless people (30+) sleeping in one corner of the park which was a bit weird. One of my favorite parks in Dallas. Is a Great Plaze to spend when your family! Great park outside the smell of weed. Puptopia was held here and Dexter really enjoyed himself! Hope more events are held at this plaza!",
         "overall_sentiment": "positive",
-        "positive": 19,
-        "negative": 1,
-        "neutral": 0,
+        "positive": 33,
+        "negative": 5,
+        "neutral": 2,
         "positive_keywords": [
           "beautiful",
+          "beautiful architecture",
           "beautiful building",
           "beautiful dogs",
           "buildings best",
+          "chairs good",
           "clean environment",
+          "day hot",
           "dogs love",
+          "enjoyable 32",
           "enjoying place",
           "excellent",
           "excellent kings",
+          "fantastic",
           "felt safe",
+          "friendly enjoyable",
           "fun",
           "fun walking",
           "gorgeous acre",
+          "great",
+          "great park",
           "great people",
           "great place",
+          "great plaze",
           "great turn",
           "great vibes",
           "great views",
           "great vista",
+          "lovely",
+          "nice",
+          "nice area",
           "nice homeless",
           "nice look",
           "nice park",
           "nice place",
+          "nice swings",
           "park great",
           "peaceful",
           "peaceful break",
@@ -444,20 +663,26 @@
           "pretty clean",
           "quite nice",
           "sooo beautiful",
-          "super easy"
+          "space great",
+          "super easy",
+          "wonderful park"
         ],
         "negative_keywords": [
+          "fix issue",
           "homeless",
           "homeless people",
+          "oversized downtown",
           "pictures harasses",
-          "protest violent"
+          "protest violent",
+          "worried traffic",
+          "worry place"
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8155783,
-          32.7777132
+          -96.795966,
+          32.7834406
         ]
       }
     },
@@ -465,7 +690,7 @@
       "type": "Feature",
       "properties": {
         "location": "StoneStreetGardens",
-        "summary": "Great downtown corridor home to Campisi's, Woolworth, Starship Bagel, and the famous Dallas Eyeball sculpture. One of the most dangerous areas at night.",
+        "summary": "Great downtown corridor home to Campisi's, Woolworth, Starship Bagel, and the famous Dallas Eyeball sculpture and accompanying lawn. One of the most dangerous areas at night.",
         "overall_sentiment": "neutral",
         "positive": 3,
         "negative": 2,
@@ -489,8 +714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8155783,
-          32.7777132
+          -96.7986925,
+          32.7813827
         ]
       }
     },
@@ -498,32 +723,58 @@
       "type": "Feature",
       "properties": {
         "location": "WestEndSquare",
-        "summary": "Great new little park in the West End. It has swings, a fountain, walking paths and games such as Foose ball and ping-pong. The walking tracks were smooth and clean.",
+        "summary": "A great square space of old days in the Dallas West End. Great historic location in downtown! Chairs, benches, and fountains. No restrooms. Ping pong with friends! Gators nearby for some refreshing drinks! Presta place, but there are homeless people.",
         "overall_sentiment": "positive",
-        "positive": 8,
-        "negative": 1,
-        "neutral": 1,
+        "positive": 31,
+        "negative": 4,
+        "neutral": 14,
         "positive_keywords": [
+          "awesome place",
+          "beautiful",
+          "beautiful addition",
+          "beautiful park",
+          "beauty park",
+          "cute swing",
+          "enjoying company",
+          "er relaxing",
+          "feels spacious",
           "great",
+          "great eateries",
           "great historic",
+          "great new",
+          "great place",
           "great square",
+          "great time",
           "healthy vibe",
+          "museum exciting",
+          "nice",
+          "nice bring",
           "nice clean",
+          "nice night",
+          "nice park",
           "nice place",
+          "park great",
           "park welcome",
           "perfect eating",
           "places cool",
+          "refreshing drinks",
+          "relaxing place",
           "scenery working",
           "sit enjoy",
           "swings wonderful"
         ],
-        "negative_keywords": []
+        "negative_keywords": [
+          "eateries",
+          "homeless",
+          "place homeless",
+          "urbanism really"
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.8155783,
-          32.7777132
+          -96.807491,
+          32.782353
         ]
       }
     }

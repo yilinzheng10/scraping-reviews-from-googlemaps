@@ -1,11 +1,11 @@
 {
   "location": "West End Square",
-  "scraped_at": "2025-12-01T17:04:37.116111",
+  "scraped_at": "2025-12-03T16:02:07.127000",
   "coordinates": {
-    "latitude": 32.7777132,
-    "longitude": -96.8155783
+    "latitude": 32.782353,
+    "longitude": -96.807491
   },
-  "total_reviews": 10,
+  "total_reviews": 50,
   "reviews": [
     {
       "name": "M",
@@ -29,7 +29,7 @@
       "name": "Matthew Walker",
       "comment": "This isn't so much a review as a warning so I'm giving it 5 stars due to it being a park: the charging stations do not work, be warned.",
       "rating": "5",
-      "date": "2 weeks ago"
+      "date": "3 weeks ago"
     },
     {
       "name": "Ola Nesgovorov",
@@ -66,6 +66,246 @@
       "comment": "This park is a welcome addition to the neighborhood! The unique water feature and the relaxing swings are wonderful. I look forward to spending lots of time here. The electricity outlets will be helpful if you are looking for a change of scenery while working from home!",
       "rating": "5",
       "date": "4 years ago"
+    },
+    {
+      "name": "Richie Morales",
+      "comment": "What a lively place & an area with an endless array of restaurants, bars & venues!",
+      "rating": "4",
+      "date": "a year ago"
+    },
+    {
+      "name": "Dena Sims",
+      "comment": "I was walking down Market Street in downtown Dallas.  I stumbled upon a street park nestled between a few buildings. It's about a block in area, but it holds lots of beauty.\n\nI sat and admired the beautiful contents. Trees, lilies, flowers.  It also has a water table with water spurting upward. Suddenly and unexpectedly,  the water became misty and i was sprayed eith the coolness of the mist. I gasped.\n\nThere are swings and plenty of seating for the many visitors. The swings were occupied with, what seem like, lovers enjoying each others company.\n\nLate evenings, the sun is perched behind a 5 story apartment building. The air is cool. The park is inviting as many visitors stopped by to admire its beauty.\n\nThe park has a calming effect on me and I'm sure others. I could sit for hours. I sat for hours.\n\nIt's a wonder.",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Carrie Wolford",
+      "comment": "er, relaxing little park in the trendy West End.",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "rufus says calm down",
+      "comment": "Great park with tables with power outlets to work on your laptop or recharge your phone. Ping pong and foosball tables. A zen zone with a fountain. There were apparently porch swings",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Remsen Jennings",
+      "comment": "This will be a fantastic new addition to the West End. There are far too many parking lots in Downtown Dallas so this park was a great way to replace an old parking lot with something the community can enjoy all year. This is also close to the new Dallas Holocaust and Humans Rights Museum. Exciting times in this neighborhood!",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Jessica Johnson",
+      "comment": "Love this new park just minutes from the office. Soooo many seating options and feels very spacious. Super cute swing seats!",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "C Curtis",
+      "comment": "Great park! Cool idea for a park in the city. My son and I had a great time on the foosball and table tennis games!",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Alexis Granados",
+      "comment": "Beautiful addition to the west end! Love that it has bean bag toss, foosball and pingpong! Also the swinging chair and benches are so relaxing",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Oscar Vega",
+      "comment": "Great new park, stopped with the family while walking all around downtown, Spent a good time playing ping pong",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Yasmine Marrero",
+      "comment": "It's such a nice park during the day. At night be careful this park is home to very large rats",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Nickie Ray",
+      "comment": "It's REALLY nice! Bring an extra ping-pong ball and some quarters for Foosball & you'll be set!",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "James Dinser",
+      "comment": "Nice, relaxing place in the middle of a lot of Dallas. Chairs, benches, and fountains. No restrooms.",
+      "rating": "4",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Jarratt Willis",
+      "comment": "Really chill spot. The swings and native landscaping are great.",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Brad Lusk",
+      "comment": "Awesome place to relax and let the kids run around.",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Zachary Tipton",
+      "comment": "Had breakfast and a short walk at 8am!! Very nice,and very well kept!!",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Mari Drako",
+      "comment": "Hidden gem among Dallas’ “Parks for Downtown Dallas”",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Roger Segovia",
+      "comment": "Ping pong with friends! Gators nearby for some refreshing drinks!",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "lourdes gomez",
+      "comment": "Presta place, but there are homeless people.",
+      "rating": "4",
+      "date": "a year ago"
+    },
+    {
+      "name": "Moore Consetta",
+      "comment": "I",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Benny Joe “Nightmare” Sustaita",
+      "comment": "If your ever in Downtowns Dallas and you need to charge your phone this is the place to go",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Malik",
+      "comment": "At night anything goes?🤭😡🧐 …",
+      "rating": "1",
+      "date": "a year ago"
+    },
+    {
+      "name": "Cynthia Lockhart",
+      "comment": "Great place to relax",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Mauricio Ellis",
+      "comment": "Doesn't have enough shade",
+      "rating": "2",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Terrence Bailey",
+      "comment": "Great eateries nearby*",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "J V",
+      "comment": "Nice night life",
+      "rating": "4",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Excuse Me Makiyo",
+      "comment": "It's a really beautiful park, having just been completed. It's not that big, but if you stand in the middle you can see the whole thing. There is Wi-Fi and charging facilities. There are also swings for adults, so it looks",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Dmytro Veremiov",
+      "comment": "A very beautiful place. As a lover of urbanism, I really",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Madison Rainbow",
+      "comment": "+47",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Lavette Dameron",
+      "comment": "",
+      "rating": "5",
+      "date": "11 months ago"
+    },
+    {
+      "name": "Amir Sad",
+      "comment": "",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "Marco Crosland",
+      "comment": "",
+      "rating": "5",
+      "date": "9 months ago"
+    },
+    {
+      "name": "Lazar Starks",
+      "comment": "",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Gz Up",
+      "comment": "",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Dmitrii Podkorytov",
+      "comment": "",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Portia “Jhazzyp” Wright",
+      "comment": "",
+      "rating": "4",
+      "date": "a year ago"
+    },
+    {
+      "name": "Leandro Trovoes",
+      "comment": "",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Rubine Gouveia",
+      "comment": "",
+      "rating": "4",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Belinda mic Wilson",
+      "comment": "",
+      "rating": "1",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Christopher Fernandez",
+      "comment": "",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Marquitta Grant",
+      "comment": "",
+      "rating": "5",
+      "date": "2 years ago"
     }
   ]
 }

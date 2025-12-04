@@ -1,11 +1,11 @@
 {
   "location": "Civic Garden",
-  "scraped_at": "2025-12-01T17:01:44.060267",
+  "scraped_at": "2025-12-03T15:59:11.095115",
   "coordinates": {
-    "latitude": 32.7795895,
-    "longitude": -96.8236282
+    "latitude": 32.7795971,
+    "longitude": -96.8022293
   },
-  "total_reviews": 10,
+  "total_reviews": 30,
   "reviews": [
     {
       "name": "Samuel Reed",
@@ -29,7 +29,7 @@
       "name": "TJ Smith",
       "comment": "I thought it was going to be super nice however it is was full of unhoused people hanging out. I'm glad they have a spot to go",
       "rating": "2",
-      "date": "2 weeks ago"
+      "date": "3 weeks ago"
     },
     {
       "name": "Kenia L",
@@ -66,6 +66,126 @@
       "comment": "Not a bad view  anyway you look. Love this park. Just one more reason I  am  blessed  to call Dallas home! +5",
       "rating": "5",
       "date": "6 years ago"
+    },
+    {
+      "name": "Matthew L",
+      "comment": "So very peaceful brought my cat he loved it will definitely go again very soon 😊 …",
+      "rating": "5",
+      "date": "4 months ago"
+    },
+    {
+      "name": "Carlo Esposito",
+      "comment": "It’s a nice walk in the park in downtown Dallas! Just beware of not stepping in dog droppings as some people will not pick up after their pets.",
+      "rating": "4",
+      "date": "5 years ago"
+    },
+    {
+      "name": "Hany Ramzy",
+      "comment": "It’s the kinda pretty that makes you wanna call your grandma and tell her about it.",
+      "rating": "4",
+      "date": "4 months ago"
+    },
+    {
+      "name": "Rich Paxton",
+      "comment": "Beautiful at night. Fountains in the center is a great way to entertain the kids on a hot day. But too many homeless people hanging out in the table area.",
+      "rating": "4",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Dmitriy Mykalo",
+      "comment": "Civic Garden is a beautiful and serene park with well-maintained gardens and a peaceful atmosphere. The interactive fountain is a highlight, and the park's layout is perfect for a relaxing stroll. It's a great spot to unwind and enjoy nature in the city.",
+      "rating": "5",
+      "date": "9 months ago"
+    },
+    {
+      "name": "Gary Thompson",
+      "comment": "Good spot to eat lunch after spending time in the courthouse!",
+      "rating": "5",
+      "date": "4 months ago"
+    },
+    {
+      "name": "Anand Arya",
+      "comment": "Nice park, needs some cleanliness. People need to stop throwing trash outside the trash bin.",
+      "rating": "4",
+      "date": "5 months ago"
+    },
+    {
+      "name": "Veronika Pliusnina",
+      "comment": "Very nice place to refresh yourself while being outside. Not crowded at all",
+      "rating": "5",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Rich KR",
+      "comment": "Small park in Downtown Dallas.  Perfect for a short rest or relaxation.  Lots of benches plus a green oasis of vegetation give a sense of peace.",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Henry Yoder",
+      "comment": "Very cool lights and a nice place to chill downtown.",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Don Muchow",
+      "comment": "Nice shady spot in downtown Dallas with picnic tables and water fountain and flowers.",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Amilcar Lopez",
+      "comment": "Great place to visit......",
+      "rating": "5",
+      "date": "11 months ago"
+    },
+    {
+      "name": "Angel XXX",
+      "comment": "We went and enjoyed the scenery early morning. Was nice and peaceful. The water, people walking dogs. A couple of homeless wandering around but super friendly and everyone minds their own business. ALOT of security walks through to give you the safety feel. Also many people cleaning the park. A new spot",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Seth Salamanca",
+      "comment": "Nice place to enjoy a lunch. +3",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "J A",
+      "comment": "Nice and chill place to walk around",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Alin Guadarrama",
+      "comment": "Beautiful at night it has a show with the water fountains it goes with the beat of the song it’s really pretty and the playgrounds look so much fun I wish I was little to play there jaja",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Ms. Qweenie Smith Davis",
+      "comment": "My honey took me to see the butterflies!! Such a great place and so romantic!!",
+      "rating": "5",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Erin Lux",
+      "comment": "Nice place to eat a picnic lunch in the middle of town",
+      "rating": "5",
+      "date": "8 years ago"
+    },
+    {
+      "name": "Kkey Hicks",
+      "comment": "The homeless population has really taken over",
+      "rating": "1",
+      "date": "3 months ago"
+    },
+    {
+      "name": "Heiderose Reed",
+      "comment": "I didn't",
+      "rating": "4",
+      "date": "8 years ago"
     }
   ]
 }

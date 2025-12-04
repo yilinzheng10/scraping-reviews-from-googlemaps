@@ -1,130 +1,311 @@
 {
-  "source_url": "https://www.google.com/maps/place/Dallas+City+Hall/@32.7764113,-96.7996532,793m/data=!3m2!1e3!5s0x864e991c03758f79:0xac1d27b870f77243!4m16!1m9!3m8!1s0x864e991c01a6bfd1:0x37ec98d77ccc70aa!2sDallas+City+Hall!8m2!3d32.7764068!4d-96.7970783!9m1!1b1!16s%2Fg%2F1tdpmh9k!3m5!1s0x864e991c01a6bfd1:0x37ec98d77ccc70aa!8m2!3d32.7764068!4d-96.7970783!16s%2Fg%2F1tdpmh9k?entry=ttu&g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D",
+  "location": "Dallas City Hall",
+  "scraped_at": "2025-12-03T15:58:50.000461",
   "coordinates": {
-    "latitude": 32.7764113,
-    "longitude": -96.7996532
+    "latitude": 32.7764033,
+    "longitude": -96.7968229
   },
-  "keywords": [],
+  "total_reviews": 50,
   "reviews": [
-    {
-      "name": "Jonathan Stevenson",
-      "comment": "",
-      "rating": 5.0,
-      "date": "a week ago"
-    },
-    {
-      "name": "Alan Farris",
-      "comment": "Tear down this upside down bunker and lease some office space. Maybe use the land for something cooler than basketball",
-      "rating": 1.0,
-      "date": "a week ago"
-    },
-    {
-      "name": "John McDonald",
-      "comment": "Great Experience",
-      "rating": 5.0,
-      "date": "2 weeks ago"
-    },
-    {
-      "name": "Amanda T",
-      "comment": "There is no help no support no nothing in this city of dallas only setting you up for failure.. the eviction process you all have going is nothing but a assembly line.. This city is so big on getting money but no leadership!!! Families are homeless losing more everyday the city allows these outside realstate companies come out here and charge you for a new place to live and then put you out.. The eviction process is nothing but a game to this city... There is no housing programs for working people there is no program for the young men or children and the young men grown up.To busy trying to lock people up and give them chargers to mess there future up!! But worried about parks but people can't even go to parks without being harassed by your polices...this city ain't what it use to be.. Become a victim of identity and try to explain that to the DPS they laugh at you..but what if it was your identity taken advantage by relatives..or etc..Alot of important people spoke up and made this city but the people we got representing the City of Dallas are weak and only paying there bills Pay the city you can do whatever you want",
-      "rating": 1.0,
-      "date": "2 weeks ago"
-    },
-    {
-      "name": "a buahs",
-      "comment": "Quiet",
-      "rating": 5.0,
-      "date": "3 weeks ago"
-    },
-    {
-      "name": "Christopher Reid",
-      "comment": "",
-      "rating": 5.0,
-      "date": "a month ago"
-    },
     {
       "name": "Yeganeh Bahraminejad",
       "comment": "I went to Dallas City Hall and was looking for a specific office. When I asked Felicia Gooch for help, she kindly came down several floors to show me where I needed to go. When she noticed that the office was closed, she walked back with me and showed me another place where I could get help. She was very kind and friendly, and even though it wasn’t part of her job, she guided me out of pure kindness. The security officers at the entrance and on the second floor were also very kind and helpful",
-      "rating": 5.0,
+      "rating": "5",
       "date": "a month ago"
-    },
-    {
-      "name": "Diana Yanez",
-      "comment": "We went to dallas water and the person that took care of us was so helpful, also the men that is greeting everyone telling you what to do to get the process going was super nice",
-      "rating": 5.0,
-      "date": "a month ago"
-    },
-    {
-      "name": "Allie MacCoy",
-      "comment": "Government building",
-      "rating": 5.0,
-      "date": "2 months ago"
     },
     {
       "name": "Kelly Terry",
-      "comment": "I’m not sure if this is the right place to leave this review but if someone could pass this along to DFD, please do. I was at Kroger this morning and DFD had a ladder truck there to get groceries (I think Truck 19). My son loves fire trucks (he’s 5) and so we walked over to look at the truck. I thought all the firefighters were inside, but as we walked up to the truck, one of the firefighters was sitting in the front. He waved at us and as soon as we got close he jumped out and started talking to my son. He offered to show him the back, he was super friendly and seemed genuinely excited to show a young child his truck. It was incredibly nice and I just wanted to say thank you. It made a kid’s day, he talked about it the whole way home! Unfortunately I did not catch the firefighter’s name but he was a Lieutenant. That kind of community outreach is so important and deserves recognition. If anyone in the Dallas government knows who it might have been, tell him thank you for me",
-      "rating": 5.0,
+      "comment": "I’m not sure if this is the right place to leave this review but if someone could pass this along to DFD, please do. I was at Kroger this morning and DFD had a ladder truck there to get groceries (I think Truck 19). My son loves fire trucks (he’s 5) and so we walked over to look at the truck. I thought all the firefighters were inside, but as we walked up to the truck, one of the firefighters was sitting in the front. He waved at us and as soon as we got close he jumped out and started talking to my son. He offered to show him the back, he was super friendly and seemed genuinely excited to show a young child his truck. It was incredibly nice and I just wanted to say thank you. It made a kid’s day, he talked about it the whole way home! Unfortunately I did not catch the firefighter’s name but he was a Lieutenant. That kind of community outreach is so important and deserves recognition. If anyone in the Dallas government knows who it might have been, tell him thank you for me.",
+      "rating": "5",
       "date": "2 months ago"
+    },
+    {
+      "name": "Amanda T",
+      "comment": "There is no help no support no nothing in this city of dallas only setting you up for failure.. the eviction process you all have going is nothing but a assembly line..\n\nThis city is so big on getting money but no leadership!!!\n\nFamilies are homeless losing more everyday the city allows these outside realstate companies come out here and charge you for a new place to live and then put you out..\n\nThe eviction process is nothing but a game to this city...\n\nThere is no housing programs for working people there is no program for the young men or children and the young men grown up.To busy trying to lock people up and give them chargers to mess there future up!!\n\nBut worried about parks but people can't even go to parks without being harassed by your polices...this city ain't what it use to be..\n\nBecome a victim of identity and try to explain that to the DPS they laugh at you..but what if it was your identity taken advantage by relatives..or etc..Alot of important people spoke up and made this city but the people we got representing the City of Dallas are weak and only paying there bills\n\nPay the city you can do whatever you want...",
+      "rating": "1",
+      "date": "2 weeks ago"
     },
     {
       "name": "Donald Brown",
       "comment": "Weirdest thing I've ever experienced shut down to have my lunch in front of Dallas City Hall when did the benches at shady by a tree and was told by security that we couldn't sit there, they didn't give us any reason why that was solid\nSo I pay taxes I buy my loss but I can't sit on government property make some sense to me because they were running homeless people off however I'm not homeless",
-      "rating": 1.0,
+      "rating": "1",
       "date": "2 months ago"
     },
     {
-      "name": "Kanika Morris",
-      "comment": "",
-      "rating": 5.0,
-      "date": "3 months ago"
+      "name": "Juan Lima",
+      "comment": "Modern themed building representing City Hall. Nice water fountain feature, but it was so humid and muggy outside that their was no wind to suspend the flags in the air. Plenty of modern buildings close by. +36",
+      "rating": "5",
+      "date": "6 years ago"
     },
     {
-      "name": "Gen X",
-      "comment": "",
-      "rating": 5.0,
-      "date": "3 months ago"
+      "name": "Diana Yanez",
+      "comment": "We went to dallas water and the person that took care of us was so helpful,  also the men that is greeting everyone telling you what to do to get the process going was super nice.",
+      "rating": "5",
+      "date": "a month ago"
     },
     {
-      "name": "Lia Landim Peuckert",
-      "comment": "Too hot Translated by Google ・ See original (German)",
-      "rating": 5.0,
-      "date": "4 months ago"
+      "name": "Stephen Harlan (Gogostevie)",
+      "comment": "While the building might be more suited for a near future dystopian-Detroit, mega-evil corporate headquarters - you know, the kind of soulless profit-over-people company that would create Robocop - Dallas City Hall is a stunning I.M. Pei architectural masterpiece.\n\nBe warned. Illegal parking enforcement is nothing to laugh about.",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Live Life",
+      "comment": "Soooo beautiful! Each floor is filled with it’s own touch of art and beauty. So much to see, felt",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Kaiden McK",
+      "comment": "From a traveler just trying to pass through, just wanted to say this city sucks. I30 Westbound lanes completely blocked at 1am with no signage indicating the closure. Signs stated i635 was to be closed and the right lane on i30 was closed, but not an entire blockage. Dozens of motorist just stuck now because of this.",
+      "rating": "1",
+      "date": "6 months ago"
+    },
+    {
+      "name": "Hollie Mac",
+      "comment": "City Hall is my favorite place to drink coffee in the mornings and watch the ducks and see the beautiful view of Downtown Dallas",
+      "rating": "5",
+      "date": "8 months ago"
+    },
+    {
+      "name": "Kevin Foresman",
+      "comment": "The Dallas City Hall is a great base for The BMW Dallas Marathon. A great race since 1971. BMW is an awesome sponsor along with WFAA Channel 8, The Ticket and Massage Integration +11",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Alan Farris",
+      "comment": "Tear down this upside down bunker and lease some office space. Maybe use the land for something cooler than basketball",
+      "rating": "1",
+      "date": "2 weeks ago"
+    },
+    {
+      "name": "Andrew Boggs",
+      "comment": "Pretty cool architecture from famed architect I.M. Pei who also designed the Louvre and Rock and Roll Hall of Fame however the best part about the building was it’s use as the Omni Consumer Products (OCP) Headquarters in Robocop!",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "D MOORE",
+      "comment": "REMARKABLE BRUTALIST ARCHITECTURE. MODERN LANDMARK DESIGN",
+      "rating": "5",
+      "date": "8 months ago"
+    },
+    {
+      "name": "Tracy Mattingly Kirk",
+      "comment": "Interesting looking City Hall, but should be repurposed. Great downtown location next to the Convention Center. Prime real estate. Cavernous inside. Usually empty though since people work from home. Parking in tunnels underground and large lot behind building, usually mostly empty. A lot of homeless people around due to proximity to main library and soup kitchen. Large fountain and plaza has a Rodin sculpture. A lot of demonstrations take place here. Near tourist areas.",
+      "rating": "3",
+      "date": "10 months ago"
+    },
+    {
+      "name": "Dario Chavez",
+      "comment": "Dallas City Hall employees have been very friendly and helpful on the handful of occasions I have visited. This is one of the many structures designed by I.M. Pei in a modern style and completed in the 1970's. The completion of Dallas City Hall was a component of a local campaign of the time to redeem the reputation of Dallas after the JFK assassination. If you are a fan of I.M. Pei I recommend making a stop for photos.The reason I rate a 4/5 however is because the grounds need a good cleaning and basic maintenance such as replacement lighting.",
+      "rating": "4",
+      "date": "5 years ago"
+    },
+    {
+      "name": "michael",
+      "comment": "Dallas city hall plaza for New Year’s Eve 2020 celebration.\nIt was the first year for this event, and it defiantly showed.\n\nThis “free” event left hundreds of family’s kept outside of there gates on the streets of Dallas while very very few people enjoyed there time within plaza. The event was no where near half full.\nKids crying to get in and family’s sitting the curbs around the gates trying to get a glimpse of the action.\n\nWe were one of the few lucky family’s to get in & believe me it was such a sad scene. We tried talking to a few of the event people but was told “we don’t know why but they said don’t let anyone else in because we are full....”\nHorrible scene......\n\nAlso they nearly jumbled and passed the countdown due to host having no clue what was going on.\n\nWe won’t ever return and goes to show #DallasHospitality.......👎🏼",
+      "rating": "1",
+      "date": "5 years ago"
+    },
+    {
+      "name": "Angela Johnson",
+      "comment": "Front door officers where very helpful and polite. Thanks guys you never know what someone is going through. And a kind smile with a lot of help, helps especially when you are lost.. D- Town is the GREATEST....",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Chris",
+      "comment": "Be careful not to illegally park in front of the building as they have ED-209 on the door, he'll only gives you 20 seconds to comply  :-)",
+      "rating": "5",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Ana Garcia",
+      "comment": "First time going to the Dia De Los Muertos parade and it was amazing.",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Rafael Ochoteco",
+      "comment": "Brutalist architecture!!! Awesome!!! +9",
+      "rating": "5",
+      "date": "8 months ago"
+    },
+    {
+      "name": "Alexander Paulavec",
+      "comment": "Wow, what a shame! We parked behind this city hall. There was some serious construction going on. Trash, homeless people, potholes, blocked sidewalks, puddles, mud. Is this US? Is this a Republican state? There was a duck swimming in a huge puddle. You've got to be kidding me..",
+      "rating": "3",
+      "date": "a year ago"
+    },
+    {
+      "name": "OMG Retail",
+      "comment": "This administration is trash. I'm from Out of town can can tell you right away. They do absolutely nothing for the people. And absolutely nothing for small businesses.. The city is riddled with blight, Trash Homeless violence ghettos. People actually started to clean up the ghettos. Purchase houses make them nice and rent them out As airbnbs. It's sad the administration put a ban on airbnbs for their own financial gains and pocket lining at the cost of tax payers money claiming it doesn't benefit the city. Instead of taking actions and spending on on shutting down these derelict run-down trash hotels in the city and fallen over over house that should be condemned\nYou can clearly see their priorities are not taken care of the city and its people",
+      "rating": "1",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Carlos Rosales",
+      "comment": "The heavens declare His glory for  it is His craftsmanship.\nPsalms 19:1",
+      "rating": "3",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Dena Sims",
+      "comment": "First time inside and it’s a wonder. There are at least 7 floors it’s that angular building in Marilla. There was a meeting last evening in what to do about I45 that runs smack dab in the middle of downtown Dallas. I live near deep Ellum and tunneling that busy highway will be a nightmare for drivers, walkers, transit riders, bicyclists. Traffic will be backed up every day all day to Timbuktu. That’s not even considering the noise level. They proposed adding residential quarters. Nightmare.",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Eldar Shamkhalov",
+      "comment": "My wife and I and a small child from Illinois wandered near the fountain , a pickup truck with a loudspeaker drove by several times and shouted that we would leave this place and that we were violating some of their laws , some kind of nonsense , there is no such rudeness in Chicago",
+      "rating": "1",
+      "date": "a year ago"
+    },
+    {
+      "name": "Greg Florey",
+      "comment": "Very cool cruising through the North Texas National Drive Electric Week Event at City Hall.",
+      "rating": "5",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Allie MacCoy",
+      "comment": "Government building",
+      "rating": "5",
+      "date": "2 months ago"
+    },
+    {
+      "name": "Bridgett Jones",
+      "comment": "Mil house apartments 4301 woodhollow dr. I have been to code compliance, hud, and my apartment management company about this. Still this is the condition of my unit. My kids is now on an inhaler because of this. The apartment complex continues to lie and say I don't let them in. Which isn't true because I'm never home. Any other time they wanted to go in my unit when I didn't have a work order they did. I need help.",
+      "rating": "1",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Eric G.",
+      "comment": "If you have money you can get an expedited plan review at the permit office.  If you're not fortunate enough to be rich, you have to wait a month or longer.  This isn't fair.  There shouldn't even be a group of people dedicated to helping the rich, they should be helping everyone on a first come first serve basis.  This permit office is out of control.  I can't believe the city manager is allow to let this happen.",
+      "rating": "1",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Chris Heney",
+      "comment": "Doesn't listen to the voice of the people.  More concerned with the length of their lunch break as they had a 4 hour recess with concerned citizens waiting for their 3-minute turn at the mic.  SMH: Awful.  Playing on their cell phones, having sidebar conversations.  A complete disappointment to watch.  I encourage everyone to take the time to go witness the lack of care expressed by our elected officials.  I will be adding photos and videos at a later date/time.",
+      "rating": "1",
+      "date": "2 years ago"
     },
     {
       "name": "Rob",
-      "comment": "Interesting architecture",
-      "rating": 5.0,
+      "comment": "Interesting architecture.",
+      "rating": "5",
       "date": "5 months ago"
     },
     {
-      "name": "K Locke",
-      "comment": "Good",
-      "rating": 5.0,
-      "date": "6 months ago"
+      "name": "Raharish Velu",
+      "comment": "Should allow sleeping at night, at least, as per Supreme Court ruling??. Sleeping in public areas is probably prohibited to prevent robbery for the general public. The homeless however have to live with that constant threat anyway. Under the Mosaic law, prevention of a nights rest is forbiden even for debtors!!\nDallas City Hall still does not allow sleeping (lying down) on their property, unless it's actually raining.\nStill no change - even on weekends!",
+      "rating": "3",
+      "date": "2 years ago"
     },
     {
-      "name": "Lissette Robles",
-      "comment": "",
-      "rating": 5.0,
-      "date": "6 months ago"
+      "name": "SF Klein",
+      "comment": "Dallas City Hall is an I M Pei masterpiece. Having now had occasion to visit a couple of times this year, I find the large terraced main  atrium to be the building's centerpiece. It runs from ground floor up to the top and must make this place a wonderful spot to conduct the City's business. Also used for location shooting as OCP Headquarters in Robocop....",
+      "rating": "4",
+      "date": "2 years ago"
     },
     {
-      "name": "De Shawn Mack",
-      "comment": "",
-      "rating": 4.0,
-      "date": "6 months ago"
+      "name": "Hector Reyes",
+      "comment": "Went to get a permit and they gave us such a hard time they dam near wanted us to restart our whole business from the start. Bc some sassy clerk lady was having a bad day or hates her job. Smh. Waste of time dealing with these people.",
+      "rating": "1",
+      "date": "2 years ago"
+    },
+    {
+      "name": "Barnaby Jones",
+      "comment": "Had a nice tour of the place given by a guy named Murphy, he walked a tad stiff and robotic but was quite informative. The parking lot attendant though was another story, Mr ED209 destroyed my car for parking too close to a hydrant",
+      "rating": "5",
+      "date": "4 years ago"
+    },
+    {
+      "name": "S. LO",
+      "comment": "I AM HOPING THAT THE PASSAGE OF PROP 6 WHICH PERTAINS TO LESSEN THE PENALTY FOR A CERTAIN AMOUNT OF MARIJUANA DOESN'T ENDANGER ANY LAW ENFORCEMENT OFFICERS. I AM REFERRING TO THE PROBABLE CAUSE PROVISION THAT SAYS THAT THE SMELL OR ODOR OD MARIJUANA CAN'T BE USED TO SEARCH UNLESS IT MEETS CERTAIN CERTAIN CRITERIA. FOR EXAMPLE, AN OFFICER ON A TRAFFIC STOP OF A SUSPECTED SPEEDING VEHICLE SMELLS THE ODOR OF MARIJUANA. WITH THE ODOR ALONE THERE CAN'T BE A SEARCH OF THE VEHICLE. A SUBJECT IN THE TRAFFIC STOP COULD HAVE A FIREARM, KNIFE. OR SOME OTHER TYPE OF WEAPON AND CAUSE HARM TO AN OFFICER OR OFFICERS THAT ARE ON THE TRAFFIC STOP. WITH THAT SAID, OTHER FACTORS WOULD NEED TO BE PRESENT FOR SEARCH TO BE DONE OR OTHER FACTORS THAT AN OFFICER CAN ARTICULATE A SEARCH  OF SAID VEHICLE. THIS PROPOSITION CAN PLACE OFFICERS IN JEOPARDY WHEN CONDUCTING ROUTINE TRAFFIC STOPS. I WOULD HOPE THAT THIS PROPOSITION DOES NOT ENDANGER ANY ONE IN THE LAW ENFORCEMENT PROFESSION OR OTHER FIRST RESPONDERS.",
+      "rating": "5",
+      "date": "10 months ago"
+    },
+    {
+      "name": "MARGARET LORINE THOMPSON",
+      "comment": "I when to pay my Water Bill. I have Not Been In The UPSIDE DOWN BUILDING IN 3 YEARS. YOU HAVE TO GO THROUGH METAL DETECTOR TO ENTER AND EXIT IS ON THE SAME END OF BUILDING. SO BE READY GET YOUR WALK ON.",
+      "rating": "3",
+      "date": "2 years ago"
+    },
+    {
+      "name": "ChronicHempHog",
+      "comment": "Never been here just wanted to say it looks beautiful and all the people giving bad reviews  to this location are just incapable of seeing the bigger picture. Homeless people and drugs are all over the place and are going to be everywhere. If it bothers you, go make a charity or a rehabilitation program dont segregate and discriminate the very souls you were ought to protect.",
+      "rating": "5",
+      "date": "9 years ago"
+    },
+    {
+      "name": "Vincent Miller (Jackass)",
+      "comment": "initially visited city hall when a Mr dunnes name appeared on small flyer handed out to us homeless scum that at an upcoming meeting at city hall  300 church representatives would be in attendance to provide housing opportunity for 300 homeless. ..after two separate vigorous searches  ...neither one of which apparrently was informed of the meeting  ...being told we had to leave our worldly possessions off the property, we finally arrived at the city council chamber lobby ,only to find 30chairs, and was promptly informed that the information on the flyer was incorrect, no meeting, no nothing...but that we could certainly have a seat in the back of the chamber an d sit quietly until opportunity arose,,if ever,to properly address the council members. ..as for me, i left",
+      "rating": "3",
+      "date": "6 years ago"
+    },
+    {
+      "name": "Kenisha barrie",
+      "comment": "Went to the Dallas Food festival. Was not what I expected... There was less 20 vendors not including the food trucks... 1 Alcohol station so the line was extremely long, same goes for the food trucks. Music was sub-par.. Overall not the best experience.....",
+      "rating": "2",
+      "date": "2 years ago"
+    },
+    {
+      "name": "T.C. Chatman",
+      "comment": "Always good to know what is happening with your city government 😔 …",
+      "rating": "4",
+      "date": "7 months ago"
+    },
+    {
+      "name": "Stephanie Barragan",
+      "comment": "I don't know what the people in this building do but i had to go somewhere else for a birth certificate. I don't know why but I thought that was really crazy that you can go to City Hall anymore for acquiring your personal records. I had to walk across the street to the library.\n..smh its wild lol.",
+      "rating": "3",
+      "date": "4 years ago"
     },
     {
       "name": "Rene Fierro",
-      "comment": "They were very helpful and directed me to where I needed to go",
-      "rating": 5.0,
+      "comment": "They were very helpful and directed me to where I needed to go ..",
+      "rating": "5",
       "date": "6 months ago"
     },
     {
-      "name": "Kimya Banks",
-      "comment": "",
-      "rating": 5.0,
+      "name": "Conrad Amavisca",
+      "comment": "It's just a nice looking building.",
+      "rating": "5",
       "date": "6 months ago"
+    },
+    {
+      "name": "Igor Mansourov",
+      "comment": "The city is poorly run, obnoxious noise disturbances from Nasher sculpture center are allowed to continue despite repeated complaints",
+      "rating": "1",
+      "date": "a year ago"
+    },
+    {
+      "name": "Tater Salad",
+      "comment": "The tour guide, Gibby (no really) had a lot to say about the history of city hall. Not all of it was good. But I",
+      "rating": "4",
+      "date": "5 years ago"
+    },
+    {
+      "name": "RiCksTa Gee",
+      "comment": "The light show was so nice and organized, the Heart mascot from Dallas Love Field was so great with the kids. I couldn't of had asked for more during this special event!",
+      "rating": "5",
+      "date": "3 years ago"
+    },
+    {
+      "name": "Steve Freeland",
+      "comment": "Historic building with great people inside 😀 …",
+      "rating": "5",
+      "date": "a year ago"
+    },
+    {
+      "name": "Owen Haupt",
+      "comment": "Just reviewing the architecture here: it's a brutalist gem!! Go up close, look at all the angles, the geometric shapes – beautiful building!",
+      "rating": "5",
+      "date": "4 years ago"
     }
   ]
 }
